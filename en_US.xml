@@ -120,12 +120,16 @@
   
     
    <string name="change_number"> CHANGE NUMBER</string>
+   <string name="change_number"> Changing your Mobile number will migrate your account information to the new number</string>
+                            
    <string name="edit_profile"> Edit Profile</string>
    <string name="update"> UPDATE</string>
    <string name="success"> Success</string>
     <string name="profile_updated"> Successfully updated Profile.</string>                     
    
    
-    <!--Your comment-->
+    <!--Delete Account-->
+    <string name="delete_account"> Delete Account</string>
+    <string name="want_to_delete_account"> Are you sure you want to delete your account?</string> 
     
 </resources>
