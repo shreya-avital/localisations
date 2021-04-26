@@ -12,6 +12,8 @@
     <string name="patient">	Patient</string>
     <string name="not_sure">Not Sure</string>
     <string name="next">Next</string>
+     <string name="select_caregiver_or_patient"> Select Caregiver OR Patient to proceed</string>
+    <string name="select">Select</string>
     
     <!--Login caregiver-->
     <string name="caregiver_signin">Caregiver Sign In</string>
@@ -82,8 +84,7 @@
     <string name="enter_email">	Enter email</string>
      <string name="select_language"> Select Language</string>
    <string name="change_number"> CHANGE NUMBER</string>
-    <string name="select_caregiver_or_patient"> Select Caregiver OR Patient to proceed</string>
-    <string name="select">Select</string>
+   
     <!--Your comment-->
     
 </resources>
