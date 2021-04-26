@@ -46,16 +46,21 @@
     <string name="fill_this">Please fill this</string>
     <string name="register">Register</string>
     
-    
+    <!--Patient listing-->
     <string name="create_patient">Create an account to continue as Patient</string>
     <string name="change_mobile_no">Change mobile number</string>
     <string name="enter_mobile_no">	Please enter the correct Mobile number</string>
     <string name="confirm">Confirm</string>
+    
+    <!--OTP screen-->
     <string name="verify_account">Verify your account</string>
     <string name="enter_otp">Please enter OTP sent to your Mobile number or Email address</string>
     <string name="resend_otp">Resend OTP</string>
     <string name="verify">Verify </string>
+    
     <string name="cancel">CANCEL</string>
+    
+    
     <string name="select_country">Select Country</string>
     <string name="search_country">Search Country</string>
     <string name="patients">Patients</string>
