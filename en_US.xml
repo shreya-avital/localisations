@@ -45,6 +45,7 @@
     <string name="privacy_policy">Privacy Policy</string>
     <string name="fill_this">Please fill this</string>
     <string name="register">Register</string>
+    <string name=failed">Failed</string>
     
     <!--Patient listing-->
     <string name="create_patient">Create an account to continue as Patient</string>
@@ -72,7 +73,7 @@
     <string name="invite_patient">Invite Patient</string>
     <string name="add">ADD</string>
     
-    <string name="are_you_sure">Are you sure ?</string>
+    <string name="remove_patient">Remove patient</string>
     <string name="remove_this_patient">	Are you sure you want to remove this patient ?</string>
     <string name="yes">YES</string>
     <string name="therapies">THERAPIES</string>
@@ -85,9 +86,11 @@
         <string name="no_data_available">No chart data available.</string>
     
     <string name="history">HISTORY</string>
+    <string name="no_measurements">No Measurements</string>
+    <string name="no_therapies_scheduled">No therapies have been scheduled yet,please set therapies</string>
+    
     <string name="no_intakes">No Intakes</string>
-    
-    
+  
     <string name="no">NO</string>
     
     <string name="call">Call</string>
@@ -117,6 +120,11 @@
   
     
    <string name="change_number"> CHANGE NUMBER</string>
+   <string name="edit_profile"> Edit Profile</string>
+   <string name="update"> UPDATE</string>
+   <string name="success"> Success</string>
+    <string name="profile_updated"> Successfully updated Profile.</string>                     
+   
    
     <!--Your comment-->
     
