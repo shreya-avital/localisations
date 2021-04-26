@@ -23,6 +23,9 @@
     <string name="dont_have_an_account">Don’t have an acount?</string>
     <string name="signup">Sign up, it’s free!</string>
     
+    <!--Patient Sign In-->
+    <string name="patient_sign_in">Patient Sign In</string>
+    
     <string name="create_caregiver">Create an account to continue as Caregiver</string>
     <string name="first_name">First Name </string>
     <string name="last_name">Last Name </string>
@@ -59,7 +62,7 @@
     <string name="therapy_setting">Therapy Setting</string>
     <string name="secondary_caregiver">Secondary Caregiver</string>
     <string name="report_patient">Report Patient</string>
-    <string name="patient_sign_in">Patient Sign In</string>
+    
     <string name="time_to_update">Time to Update!</string>
     <string name="added_features">We have added some new features and fixed some bugs to make your experience as smooth as possible.</string>
     <string name="download_update">Download Update	</string>
