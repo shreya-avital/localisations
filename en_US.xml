@@ -121,8 +121,11 @@
     
    <string name="change_number"> CHANGE NUMBER</string>
    <string name="change_number"> Changing your Mobile number will migrate your account information to the new number</string>
-                            
+    
+    <!--Edit Profile-->                       
    <string name="edit_profile"> Edit Profile</string>
+   <string name="camera"> Camera</string>
+   <string name="gallery"> Gallery</string>                                                         
    <string name="update"> UPDATE</string>
    <string name="success"> Success</string>
     <string name="profile_updated"> Successfully updated Profile.</string>                     
@@ -131,5 +134,17 @@
     <!--Delete Account-->
     <string name="delete_account"> Delete Account</string>
     <string name="want_to_delete_account"> Are you sure you want to delete your account?</string> 
-    
+                                         
+    <!--Version--> 
+    <string name="version"> Version </string>
+                        
+     <!--Help-->
+     <string name="help">Help</string>
+                        
+     <!--contact us-->
+     <string name="contact_us">Contact us</string> 
+                              
+       <!--Logout-->
+     <string name="logout">Logout</string>
+      <string name="want_to_logout">Are you sure you wan't to logout?</string>
 </resources>
