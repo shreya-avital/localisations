@@ -26,6 +26,7 @@
     <!--Patient Sign In-->
     <string name="patient_sign_in">Patient Sign In</string>
     
+    <!--Signup Caregiver-->
     <string name="create_caregiver">Create an account to continue as Caregiver</string>
     <string name="first_name">First Name </string>
     <string name="last_name">Last Name </string>
@@ -34,8 +35,18 @@
     <string name="gender">Gender</string>
     <string name="language">Language</string>
     <string name="timezone">Time Zone </string>
-    <string name="Terms_Conditions">I agree to the Terms and Conditions and Privacy Policy</string>
+    <string name="enter_firstname">Enter first name</string>
+    <string name="enter_lastname">Enter last name</string>
+    <string name="enter_email">	Enter email</string>
+     <string name="select_language"> Select Language</string>
+    <string name="i_agree">I agree to the </string>
+      <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="and">and</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="fill_this">Please fill this</string>
     <string name="register">Register</string>
+    
+    
     <string name="create_patient">Create an account to continue as Patient</string>
     <string name="change_mobile_no">Change mobile number</string>
     <string name="enter_mobile_no">	Please enter the correct Mobile number</string>
@@ -79,13 +90,8 @@
     <string name="setting">Setting</string>
     <string name="click_invite_button">Add a Patient by clicking the Invite button</string>
     <string name="no_contacts_found">No Contacts Found</string>
-    <string name="terms_and_conditions">Terms and Conditions</string>
-    <string name="privacy_policy">Privacy Policy</string>
-    <string name="fill_this">Please fill this</string>
-    <string name="enter_firstname">Enter first name</string>
-    <string name="enter_lastname">Enter last name</string>
-    <string name="enter_email">	Enter email</string>
-     <string name="select_language"> Select Language</string>
+  
+    
    <string name="change_number"> CHANGE NUMBER</string>
    
     <!--Your comment-->
