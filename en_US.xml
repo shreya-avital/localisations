@@ -48,6 +48,7 @@
     
     <!--Patient listing-->
     <string name="create_patient">Create an account to continue as Patient</string>
+    
     <string name="change_mobile_no">Change mobile number</string>
     <string name="enter_mobile_no">	Please enter the correct Mobile number</string>
     <string name="confirm">Confirm</string>
