@@ -56,7 +56,8 @@
     <!--OTP screen-->
     <string name="verify_account">Verify your account</string>
     <string name="enter_otp">Please enter OTP sent to your Mobile number or Email address</string>
-    <string name="resend_otp">Resend OTP</string>
+    <string name="verify_account">Verify your account</string>
+    <string name="didnt_receive_otp">Didn't receive the OTP</string>
     <string name="verify">Verify </string>
     
     <string name="cancel">CANCEL</string>
