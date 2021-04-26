@@ -147,4 +147,9 @@
        <!--Logout-->
      <string name="logout">Logout</string>
       <string name="want_to_logout">Are you sure you wan't to logout?</string>
+                                   
+    <!--Notification-->
+     <string name="notification">NOTIFICATION</string>
+      <string name="no_notification_found">No Notifiactions found</string>
+      <string name="havent_received_notification">You haven't received any notifications yet.</string>                               
 </resources>
