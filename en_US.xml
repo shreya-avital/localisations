@@ -55,6 +55,9 @@
     <string name="do_you_smoke">Do you smoke?</string>
     <string name="do_you_drink">Do you drink alcohol?</string>
     <string name="known_medical_conditions">Known medical conditions</string>
+     <string name="pre_existing_conditions">Pre existing conditions</string>
+     <string name="age">Age</string>
+     <string name="id">ID</string>
     
     <!--Patient listing-->
     <string name="create_patient">Create an account to continue as Patient</string>
@@ -67,6 +70,7 @@
     <string name="verify_account">Verify your account</string>
     <string name="enter_otp">Please enter OTP sent to your Mobile number or Email address</string>
     <string name="didnt_receive_otp">Didn't receive the OTP</string>
+    <string name="resend_otp">Resend OTP </string>
     <string name="verify">Verify </string>
 
     <string name="cancel">CANCEL</string>
