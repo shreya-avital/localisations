@@ -79,7 +79,7 @@
     <string name="therapies">THERAPIES</string>
     <string name="no_intakes">No Intakes</string>
                         
-    <string name="please_set_the_therapies">No therapies have been scheduled yet,please set the therapies</string>
+   
     <string name="activities">ACTIVITIES</string>
     <string name="week">WEEK</string>
     <string name="month">MONTH/string>
@@ -138,8 +138,26 @@
     <string name="x_therapy_added_successfully">${therapy} added successfully!</string>
     <string name="add_another_therapy">Add another therapy</string>
     <String name="continue_to_listing">Continue to Therapy listing</String>
+    <string name="edit_therapies">Edit Therapies</string>
+    <string name="loading_therapies"> Loading Therapies</string>
+    <string name="wait_while_we_load_therapies"> Please wait while we load therapies for you.</string>
+    <string name="enable_patient">Enable patient to manage therapies</string>
 
-
+     <!--Set Medication-->
+    <string name="set_medication">Set Medication</string>
+    <string name="select_medication">Select Medication</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="enter_medicine_name">Please enter Medicine name.</string>
+    <string name="set_medication">Units of measurement</string>
+    <string name="enter_units_of_measurement">Please select Unit of Measurement</string>
+    <string name="unit">Please select unit</string>
+    <string name="dosage_strength">Dosage Strength</string>
+    <string name="intake_advice">Intake advice</string>
+    <string name="none">None</string>
+    <string name="before_meal">Before meal</string>
+    <string name="with_meal">with_meal</string>
+    <string name="after_meal">after_meal</string>
+        
     <!--Delete Account-->
     <string name="delete_account"> Delete Account</string>
     <string name="want_to_delete_account"> Are you sure you want to delete your account?</string> 
