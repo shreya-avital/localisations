@@ -46,7 +46,16 @@
     <string name="fill_this">Please fill this</string>
     <string name="register">Register</string>
     <string name="failed">Failed</string>
-
+    
+    <!--Signup Patient-->
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="ethnicity">Ethnicity</string>
+    <string name="do_you_smoke">Do you smoke?</string>
+    <string name="do_you_drink">Do you drink alcohol?</string>
+    <string name="known_medical_conditions">Known medical conditions</string>
+    
     <!--Patient listing-->
     <string name="create_patient">Create an account to continue as Patient</string>
 
