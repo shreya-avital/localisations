@@ -82,6 +82,7 @@
     <string name="add">ADD</string>
 
     <string name="remove_patient">Remove patient</string>
+    <string name="are_you_sure">Are you sure?</string>
     <string name="remove_this_patient">	Are you sure you want to remove this patient ?</string>
     <string name="yes">YES</string>
     <string name="therapies">THERAPIES</string>
