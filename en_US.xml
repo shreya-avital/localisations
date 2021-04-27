@@ -4,17 +4,17 @@
     <string name="onboarding_title2">Be comforted that you’ll always know your loved ones are alright</string>
     <string name="onboarding_title3">Always one step ahead in caring for your loved ones</string>
     <string name="get_started_title">GET STARTED</string>
-    
-     <!--Login selection-->
+
+    <!--Login selection-->
     <string name="welcome_to_SuperMD">Welcome to SuperMD</string>
     <string name="get_started_message">Let’s get started by setting up your profile.</string>
     <string name="caregiver">Caregiver</string>
     <string name="patient">	Patient</string>
     <string name="not_sure">Not Sure</string>
     <string name="next">Next</string>
-     <string name="select_caregiver_or_patient"> Select Caregiver OR Patient to proceed</string>
+    <string name="select_caregiver_or_patient"> Select Caregiver OR Patient to proceed</string>
     <string name="select">Select</string>
-    
+
     <!--Login caregiver-->
     <string name="caregiver_signin">Caregiver Sign In</string>
     <string name="country">Country</string>
@@ -22,10 +22,10 @@
     <string name="login">Login</string>
     <string name="dont_have_an_account">Don’t have an acount?</string>
     <string name="signup">Sign up, it’s free!</string>
-    
+
     <!--Patient Sign In-->
     <string name="patient_sign_in">Patient Sign In</string>
-    
+
     <!--Signup Caregiver-->
     <string name="create_caregiver">Create an account to continue as Caregiver</string>
     <string name="first_name">First Name </string>
@@ -38,31 +38,31 @@
     <string name="enter_firstname">Enter first name</string>
     <string name="enter_lastname">Enter last name</string>
     <string name="enter_email">	Enter email</string>
-     <string name="select_language"> Select Language</string>
+    <string name="select_language"> Select Language</string>
     <string name="i_agree">I agree to the </string>
-      <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
     <string name="and">and</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="fill_this">Please fill this</string>
     <string name="register">Register</string>
-    <string name=failed">Failed</string>
-    
+    <string name="failed">Failed</string>
+
     <!--Patient listing-->
     <string name="create_patient">Create an account to continue as Patient</string>
-    
+
     <string name="change_mobile_no">Change mobile number</string>
     <string name="enter_mobile_no">	Please enter the correct Mobile number</string>
     <string name="confirm">Confirm</string>
-    
+
     <!--OTP screen-->
     <string name="verify_account">Verify your account</string>
     <string name="enter_otp">Please enter OTP sent to your Mobile number or Email address</string>
     <string name="verify_account">Verify your account</string>
     <string name="didnt_receive_otp">Didn't receive the OTP</string>
     <string name="verify">Verify </string>
-    
+
     <string name="cancel">CANCEL</string>
-    
+
     <!--Loading screen-->
     <string name="select_country">Select Country</string>
     <string name="search_country">Search Country</string>
@@ -72,37 +72,37 @@
     <string name="search_contact">Search Contact</string>
     <string name="invite_patient">Invite Patient</string>
     <string name="add">ADD</string>
-    
+
     <string name="remove_patient">Remove patient</string>
     <string name="remove_this_patient">	Are you sure you want to remove this patient ?</string>
     <string name="yes">YES</string>
     <string name="therapies">THERAPIES</string>
     <string name="no_intakes">No Intakes</string>
-                            
+                        
     <string name="please_set_the_therapies">No therapies have been scheduled yet,please set the therapies</string>
     <string name="activities">ACTIVITIES</string>
     <string name="week">WEEK</string>
     <string name="month">MONTH/string>
     <string name="three_months"> 3 MONTHS</string>
     <string name="no_data">No data</string>
-        <string name="no_data_available">No chart data available.</string>
-    
+    <string name="no_data_available">No chart data available.</string>
+
     <string name="history">HISTORY</string>
     <string name="no_measurements">No Measurements</string>
     <string name="no_therapies_scheduled">No therapies have been scheduled yet,please set therapies</string>
-    
+
     <string name="no_intakes">No Intakes</string>
-  
+
     <string name="no">NO</string>
-    
+
     <string name="call">Call</string>
     <string name="edit_patient">Edit Patient</string>
     <string name="therapy_setting">Therapy Setting</string>
     <string name="secondary_caregiver">Secondary Caregiver</string>
     <string name="report_patient">Report Patient</string>
-      <string name="want_to_report_patient">Are you sure you want to report Patient?</string>
-      <string name="reason_to_patient">Reason to report</string>
-    
+    <string name="want_to_report_patient">Are you sure you want to report Patient?</string>
+    <string name="reason_to_patient">Reason to report</string>
+
     <string name="time_to_update">Time to Update!</string>
     <string name="added_features">We have added some new features and fixed some bugs to make your experience as smooth as possible.</string>
     <string name="download_update">Download Update	</string>
@@ -120,39 +120,43 @@
     <string name="click_invite_button">Add a Patient by clicking the Invite button</string>
     <string name="invite_patient">INVITE PATIENT</string>
     <string name="no_contacts_found">No Contacts Found</string>
-  
-    
-   <string name="change_number"> CHANGE NUMBER</string>
-   <string name="change_number"> Changing your Mobile number will migrate your account information to the new number</string>
-    
+
+
+    <string name="change_number"> CHANGE NUMBER</string>
+    <string name="change_number"> Changing your Mobile number will migrate your account information to the new number</string>
+
     <!--Edit Profile-->                       
-   <string name="edit_profile"> Edit Profile</string>
-   <string name="camera"> Camera</string>
-   <string name="gallery"> Gallery</string>                                                         
-   <string name="update"> UPDATE</string>
-   <string name="success"> Success</string>
+    <string name="edit_profile"> Edit Profile</string>
+    <string name="camera"> Camera</string>
+    <string name="gallery"> Gallery</string>                                                         
+    <string name="update"> UPDATE</string>
+    <string name="success"> Success</string>
     <string name="profile_updated"> Successfully updated Profile.</string>                     
-   
-   
+
+
+    <!--Therapy Settings-->
+    <string name"add_another_therapy">Add another therapy</string>
+
+
     <!--Delete Account-->
     <string name="delete_account"> Delete Account</string>
     <string name="want_to_delete_account"> Are you sure you want to delete your account?</string> 
-                                         
+                                     
     <!--Version--> 
     <string name="version"> Version </string>
-                        
-     <!--Help-->
-     <string name="help">Help</string>
-                        
-     <!--contact us-->
-     <string name="contact_us">Contact us</string> 
-                              
-       <!--Logout-->
-     <string name="logout">Logout</string>
-      <string name="want_to_logout">Are you sure you wan't to logout?</string>
-                                   
+                    
+    <!--Help-->
+    <string name="help">Help</string>
+                    
+    <!--contact us-->
+    <string name="contact_us">Contact us</string> 
+                          
+    <!--Logout-->
+    <string name="logout">Logout</string>
+    <string name="want_to_logout">Are you sure you wan't to logout?</string>
+                               
     <!--Notification-->
-     <string name="notification">NOTIFICATION</string>
-      <string name="no_notification_found">No Notifiactions found</string>
-      <string name="havent_received_notification">You haven't received any notifications yet.</string>                               
+    <string name="notification">NOTIFICATION</string>
+    <string name="no_notification_found">No Notifiactions found</string>
+    <string name="havent_received_notification">You haven't received any notifications yet.</string>                               
 </resources>
