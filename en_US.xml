@@ -150,7 +150,7 @@
     <!--Therapy Settings-->
     <string name="x_therapy_added_successfully">${therapy} added successfully!</string>
     <string name="add_another_therapy">Add another therapy</string>
-    <string name="continue_to_listing">Continue to Therapy listing</String>
+    <string name="continue_to_listing">Continue to Therapy listing</string>
     <string name="edit_therapies">Edit Therapies</string>
     <string name="loading_therapies"> Loading Therapies</string>
     <string name="wait_while_we_load_therapies"> Please wait while we load therapies for you.</string>
