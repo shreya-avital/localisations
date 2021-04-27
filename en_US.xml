@@ -90,7 +90,7 @@
    
     <string name="activities">ACTIVITIES</string>
     <string name="week">WEEK</string>
-    <string name="month">MONTH/string>
+    <string name="month">MONTH</string>
     <string name="three_months"> 3 MONTHS</string>
     <string name="no_data">No data</string>
     <string name="no_data_available">No chart data available.</string>
@@ -98,8 +98,8 @@
     <string name="history">HISTORY</string>
     <string name="no_measurements">No Measurements</string>
     <string name="no_therapies_scheduled">No therapies have been scheduled yet,please set therapies</string>
-
-    <string name="no_intakes">No Intakes</string>
+        
+        
 
     <string name="no">NO</string>
 
