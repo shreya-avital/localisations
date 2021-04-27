@@ -212,5 +212,13 @@
     <!--Notification-->
     <string name="notification">NOTIFICATION</string>
     <string name="no_notification_found">No Notifiactions found</string>
-    <string name="havent_received_notification">You haven't received any notifications yet.</string>                               
+    <string name="havent_received_notification">You haven't received any notifications yet.</string>    
+        
+     <!--Patient Summary-->
+    <string name="summary">SUMMARY</string>
+    <string name="loading_intakes">Loading Intakes </string>
+    <string name="intake_data">Please wait while we load intake data for you</string>
+    <string name="reports">REPORTS</string>
+    <string name="charts">CHARTS</string>
+    <string name="list">LIST</string>
 </resources>
