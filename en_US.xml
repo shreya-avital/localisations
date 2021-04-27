@@ -157,6 +157,31 @@
     <string name="before_meal">Before meal</string>
     <string name="with_meal">with_meal</string>
     <string name="after_meal">after_meal</string>
+     <string name="others">Others</string>
+     <string name="custom_entry">Custom entry</string>
+      <string name="save">SAVE</string>
+      <string name="next">NEXT</string> 
+      <string name="Duration">duration</string>
+        
+      <string name="no_end_date">no_end_date</string>
+      <string name="start_date">Start Date</string>
+      <string name="today">today</string>
+      <string name="until_date">Until date</string>
+      <string name="x_days">For X days</string>
+      <string name="duration">Duration</string>
+      <string name="frequency_of_intake">Frequency of Intake</string>
+      <string name="x_times_a_day">Daily,X times a day</string>
+      <string name="every_x_hours">Daily,every X hours</string>
+      <string name="every_x_days">Every X days</string>
+      <string name="every">Every</string>
+      <string name="specific_days_of_week">Specific_days_of_week</string>
+      <string name="mon">Monday</string>
+      <string name="tue">Tuesday</string>
+      <string name="wed">Wednesday</string>
+      <string name="thursday">Thursday</string>  
+      <string name="fri">Friday</string>
+      <string name="sat">Saturday</string>
+      <string name="sun">Sunday</string>
         
     <!--Delete Account-->
     <string name="delete_account"> Delete Account</string>
