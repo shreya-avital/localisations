@@ -77,6 +77,8 @@
     <string name="remove_this_patient">	Are you sure you want to remove this patient ?</string>
     <string name="yes">YES</string>
     <string name="therapies">THERAPIES</string>
+    <string name="no_intakes">No Intakes</string>
+                            
     <string name="please_set_the_therapies">No therapies have been scheduled yet,please set the therapies</string>
     <string name="activities">ACTIVITIES</string>
     <string name="week">WEEK</string>
