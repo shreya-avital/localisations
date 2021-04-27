@@ -126,12 +126,12 @@
     <string name="please_wait">Please wait</string>
     <string name="setting">Setting</string>
     <string name="click_invite_button">Add a Patient by clicking the Invite button</string>
-    <string name="invite_patient">INVITE PATIENT</string>
+    <string name="invite_patient_caps">INVITE PATIENT</string>
     <string name="no_contacts_found">No Contacts Found</string>
 
 
     <string name="change_number"> CHANGE NUMBER</string>
-    <string name="change_number"> Changing your Mobile number will migrate your account information to the new number</string>
+    <string name="changing_your_mobile_number_"> Changing your Mobile number will migrate your account information to the new number</string>
 
     <!--Edit Profile-->                       
     <string name="edit_profile"> Edit Profile</string>
