@@ -135,7 +135,9 @@
 
 
     <!--Therapy Settings-->
-    <string name"add_another_therapy">Add another therapy</string>
+    <string name="x_therapy_added_successfully">${therapy} added successfully!</string>
+    <string name="add_another_therapy">Add another therapy</string>
+    <String name="continue_to_listing">Continue to Therapy listing</String>
 
 
     <!--Delete Account-->
