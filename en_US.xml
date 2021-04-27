@@ -66,7 +66,6 @@
     <!--OTP screen-->
     <string name="verify_account">Verify your account</string>
     <string name="enter_otp">Please enter OTP sent to your Mobile number or Email address</string>
-    <string name="verify_account">Verify your account</string>
     <string name="didnt_receive_otp">Didn't receive the OTP</string>
     <string name="verify">Verify </string>
 
@@ -120,7 +119,7 @@
     <string name="try_again">Try Again</string>
     <string name="update_required">	Update Required!</string>
     <string name="not_supporting_version">	 We are not supporting this version as we have added some news features and fixed some major bugs to make your experience as smooth as possible.</string>
-    <string name="didnt_receive_otp">Select Time Zone</string>
+    
     <string name="select_timezone">Select Time Zone</string>
     <string name="type_timezone">Type Time Zone</string>
     <string name="no_patient_found">No Patients found</string>
@@ -157,7 +156,7 @@
     <string name="select_medication">Select Medication</string>
     <string name="medicine_name">Medicine Name</string>
     <string name="enter_medicine_name">Please enter Medicine name.</string>
-    <string name="set_medication">Units of measurement</string>
+    <string name="units_of_measurement">Units of measurement</string>
     <string name="enter_units_of_measurement">Please select Unit of Measurement</string>
     <string name="unit">Please select unit</string>
     <string name="dosage_strength">Dosage Strength</string>
@@ -168,8 +167,7 @@
     <string name="after_meal">after_meal</string>
      <string name="others">Others</string>
      <string name="custom_entry">Custom entry</string>
-      <string name="save">SAVE</string>
-      <string name="next">NEXT</string> 
+        <string name="save">SAVE</string>
       <string name="Duration">duration</string>
         
       <string name="no_end_date">no_end_date</string>
