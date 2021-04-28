@@ -36,13 +36,17 @@
 	<string name="caregiver_signin">Caregiver Sign In</string>
 	<string name="country">Country</string>
 	<string name="mobile_no">Mobile Number </string>
+	<string name="invalid_phone_number">Enter valid mobile number. </string>
 	<string name="login">Login</string>
 	<string name="dont_have_an_account">Don’t have an acount?</string>
 	<string name="signup">Sign up, it’s free!</string>
 	
 	<!--Patient Sign In-->
 	<string name="patient_sign_in">Patient Sign In</string>
-	
+	<string name="no_caregiver_linked">No Caregiver linked"</string>
+	<string name="invite_caregiver_description">Please invite a caregiver by clicking the invite button.</string>ftherap
+	<string name="search_caregiver_name"> Search caregiver</string>
+						
 	<!--Signup Caregiver-->
 	<string name="sign_in_caregiver">Caregiver Sign In</string>
 	<string name="create_caregiver">Create an account to continue as Caregiver</string>
@@ -53,13 +57,15 @@
 	<string name="gender">Gender</string>
 	<string name="language">Language</string>
 	<string name="timezone">Time Zone </string>
+	<string name="time_zone_selected_doesnot_match_system_timezone">The selected time zone doesn't match with the phone time zone.</string>
 	<string name="enter_firstname">Enter first name</string>
 	<string name="enter_lastname">Enter last name</string>
 	<string name="enter_email">	Enter email</string>
 	<string name="select_language"> Select Language</string>
 	<string name="i_agree_terms">I agree to the Terms and Conditions and Privacy Policy</string>
-	<string name="tems_and_condition">Terms and Conditions</string>
+	<string name="terms_and_condition">Terms and Conditions</string>
 	<string name="privacy_policy">Privacy Policy</string>
+	
 	
 	<string name="fill_this">Please fill this</string>
 	<string name="register">Register</string>
@@ -122,6 +128,9 @@
 	<string name="history">HISTORY</string>
 	<string name="no_measurements">No Measurements</string>
 	<string name="no_therapies_scheduled">No therapies have been scheduled yet,please set therapies</string>
+	<string name="no_therapy_found"> No Therapy found</string>
+	<string name="add_therapy"> Add Therapy</string>
+	<string name="failed_to_get_therapies"> Failed to get Therapies.</string>
 	
 	
 	
@@ -129,8 +138,9 @@
 	
 	<string name="call">Call</string>
 	<string name="edit_patient">Edit Patient</string>
+	
 	<string name="therapy_setting">Therapy Setting</string>
-	<string name="secondary_caregiver">Secondary Caregiver</string>
+	
 	<string name="report_patient">Report Patient</string>
 	<string name="want_to_report_patient">Are you sure you want to report Patient?</string>
 	<string name="reason_to_patient">Reason to report</string>
@@ -149,7 +159,6 @@
 	<string name="no_patient_found">No Patients found</string>
 	<string name="please_wait">Please wait</string>
 	<string name="setting">Setting</string>
-	<string name="click_invite_button">Add a Patient by clicking the Invite button</string>
 	<string name="invite_patient_caps">INVITE PATIENT</string>
 	<string name="no_contacts_found">No Contacts Found</string>
 	
@@ -159,9 +168,11 @@
 	
 	<!--Edit Profile-->
 	<string name="edit_profile"> Edit Profile</string>
+	<string name="complete_profile"> Please complete your profile\nby clicking here</string>
+	<string name="here"> here</string>
 	<string name="camera"> Camera</string>
 	<string name="gallery"> Gallery</string>
-	<string name="update"> UPDATE</string>
+	<string name="update"> UPDATE</string>.
 	<string name="success"> Success</string>
 	<string name="profile_updated"> Successfully updated Profile.</string>
 	
@@ -171,10 +182,18 @@
 	<string name="add_another_therapy">Add another therapy</string>
 	<string name="continue_to_listing">Continue to Therapy listing</string>
 	<string name="edit_therapies">Edit Therapies</string>
+	<string name="inventory_fall">Notify when inventory falls to (x) number of days.</string>
 	<string name="loading_therapies"> Loading Therapies</string>
 	<string name="therapy_paused">This therapy is paused</string>
 	<string name="loading_therapies_message"> Please wait while we load therapies for you.</string>
 	<string name="enable_patient">Enable patient to manage therapies</string>
+	<string name="mail_open_failed">Please check your mail app.</string>
+	<string name="enable_caregiver_manager_therapy_message">Enable caregiver to manage therapies</string>
+	<string name="enable_patient_manager_therapy_message" >Enable patient to manage therapies</string>
+	
+	<!--Secondary caregiver-->
+	<string name="secondary_caregiver">Secondary Caregiver</string>
+	<string name="resign_secondary_caregiver">Resign as Secondary Caregiver</string>
 	
 	<!--Set Medication-->
 	<string name="set_medication">Set Medication</string>
@@ -191,6 +210,7 @@
 	<string name="with_meal">with_meal</string>
 	<string name="after_meal">after_meal</string>
 	<string name="others">Others</string>
+	<string name="other">Other</string>
 	<string name="custom_entry">Custom entry</string>
 	<string name="save">SAVE</string>
 	<string name="Duration">duration</string>
@@ -212,7 +232,17 @@
 	<string name="fri">Friday</string>
 	<string name="sat">Saturday</string>
 	<string name="sun">Sunday</string>
+	<string name"add_intake_time_to_manage_inventory"> Please add intake time in order to manage inventory.</string>
 	
+	<!--Loading Patients-->
+	<string name="loading_patients_title"> Loading Patients</string>
+	<string name="loading_patients_message" = "Please wait while we load patients for you.</string>
+	<string name="Failed_to_get_Patients" = "Failed to get Patients.</string>
+	<string name="No_Patients_found" = "No Patients found</string>
+	<string name="Add_Patient_clicking_Invite_button"> Add a Patient by clicking the Invite button</string>
+	<string name="invite_patient"> Invite Patient</string>
+
+ 
 	<!--Set Measurement-->
 	<string name="set_measurement">Set Measurement</string>
 	<string name="select_measurement">SELECT MEASUREMENT</string>
@@ -238,7 +268,6 @@
 	<string name="successfully_therapy_taken">Successfully marked therapy as taken</string>
 	<string name="loading_therapy">Loading Therapy</string>
 	<string name="please_wait_we_load_therapy">Please wait while we load therapy for you</string>
-	<string name="failed_to_get_therapy">Failed to get Therapy</string>
 	<string name="timed_out">The request timed out.</string>
 	<string name="retry">Retry</string>
 	
@@ -264,25 +293,30 @@
 	<string name="logout">Logout</string>
 	<string name="want_to_logout">Are you sure you wan't to logout?</string>
 	
-	Settings
 	<!--Settings-->
 	<string name="logout">Logout</string>
 	<!--Notification-->
 	<string name="notification">NOTIFICATION</string>
+	<string name="connect_to_network_to_notify_caregiver">Please connect to the internet so that your caregiver is notified about the therapies.</string>
 	<string name="no_notification_found">No Notifiactions found</string>
 	<string name="havent_received_notification">You haven't received any notifications yet.</string>
 	<string name="mark_all_as_read">Read All</string>
-	
+	<string name="late_reason">Late reason</string>
+				  
 	<!--Patient Summary-->
 	<string name="summary">SUMMARY</string>
 	<string name="loading_intakes">Loading Intakes </string>
 	<string name="intake_data">Please wait while we load intake data for you</string>
 	<string name="reports">REPORTS</string>
+	<string name="generate_report">Generate Report</string>
+	<string name="generate_report_description">  Generate reports for selected number of months</string>
+	<string name="generate" = Generate</string>
 	
 	<string name="charts">CHARTS</string>
 	<string name="average_compliance">Average Compliance</string>
 	<string name="average_reading">Average Reading</string>
 	<string name="highest_reading">Highest Reading</string>
+	<string name="highest_percentage">Highest Percentage</string>
 	<string name="list">LIST</string>
 
 	<!-- iOS Specific -->
