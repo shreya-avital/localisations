@@ -8,7 +8,7 @@
 	
 	<!--Login selection-->
 	<string name="welcome_to_SuperMD">Welcome to SuperMD</string>
-	<string name="get_started_message">Let’s get started by setting up your profile.</string>
+	<string name="get_started_message">Let's get started by setting up your profile.</string>
 	<string name="caregiver">Caregiver</string>
 	<string name="patient">	Patient</string>
 	<string name="not_sure">Not Sure</string>
@@ -249,6 +249,7 @@
 	<string name="notification">NOTIFICATION</string>
 	<string name="no_notification_found">No Notifiactions found</string>
 	<string name="havent_received_notification">You haven't received any notifications yet.</string>
+	<string name="mark_all_as_read">Read All</string>
 	
 	<!--Patient Summary-->
 	<string name="summary">SUMMARY</string>
