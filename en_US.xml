@@ -5,10 +5,22 @@
 	<string name="onboarding_title2">Be comforted that you’ll always know your loved ones are alright</string>
 	<string name="onboarding_title3">Always one step ahead in caring for your loved ones</string>
 	<string name="get_started_title">GET STARTED</string>
+	<string name="cap_patient">PATIENT</string>
+	<string name="cap_caregiver">CAREGIVER</string>
 	
 	<!--Sync -->
 	<string name="working_on_therapies">Hold on, we are working on your therapies</string>
 	<string name="therapy_sync_success">Successfully Synced Therapies</string>
+	<string name="unsupported_therapy">Unsupported Therapy</string>
+	<string name="therapy_type_is_not_yet_supported">This therapy type is not yet supported in current version.</string>
+	<string name="okay">Okay</string>
+	<string name="refresh_failed">Refresh failed!</string>
+	<string name="therapy_listing_added_by_you_and_caregiver">All the therapies which were added by you or your caregiver will be listed here.</string>
+	<string name="still_needs_to_reach_goal">Still needs $n steps to reach the goal.</string>
+	<string name="completed_steps">You have completed your steps goal.</string>
+	<string name="cargiver_notification_settings">Caregiver Notification Setting</string>
+
+	
 
 	<!--Login selection-->
 	<string name="welcome_to_SuperMD">Welcome to SuperMD</string>
@@ -32,6 +44,7 @@
 	<string name="patient_sign_in">Patient Sign In</string>
 	
 	<!--Signup Caregiver-->
+	<string name="sign_in_caregiver">Caregiver Sign In</string>
 	<string name="create_caregiver">Create an account to continue as Caregiver</string>
 	<string name="first_name">First Name </string>
 	<string name="last_name">Last Name </string>
@@ -60,6 +73,7 @@
 	<string name="do_you_smoke">Do you smoke?</string>
 	<string name="do_you_drink">Do you drink alcohol?</string>
 	<string name="known_medical_conditions">Known medical conditions</string>
+	<string name="click_to_select_conditions">Click to select conditions</string>
 	<string name="pre_existing_conditions">Pre existing conditions</string>
 	<string name="age">Age</string>
 	<string name="id">ID</string>
@@ -158,7 +172,8 @@
 	<string name="continue_to_listing">Continue to Therapy listing</string>
 	<string name="edit_therapies">Edit Therapies</string>
 	<string name="loading_therapies"> Loading Therapies</string>
-	<string name="wait_while_we_load_therapies"> Please wait while we load therapies for you.</string>
+	<string name="therapy_paused">This therapy is paused</string>
+	<string name="loading_therapies_message"> Please wait while we load therapies for you.</string>
 	<string name="enable_patient">Enable patient to manage therapies</string>
 	
 	<!--Set Medication-->
@@ -249,6 +264,9 @@
 	<string name="logout">Logout</string>
 	<string name="want_to_logout">Are you sure you wan't to logout?</string>
 	
+	Settings
+	<!--Settings-->
+	<string name="logout">Logout</string>
 	<!--Notification-->
 	<string name="notification">NOTIFICATION</string>
 	<string name="no_notification_found">No Notifiactions found</string>
