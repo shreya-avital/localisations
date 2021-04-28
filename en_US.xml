@@ -172,14 +172,12 @@
      <string name="others">Others</string>
      <string name="custom_entry">Custom entry</string>
         <string name="save">SAVE</string>
-      <string name="Duration">duration</string>
-        
+      <string name="Duration">duration</string> 
       <string name="no_end_date">no_end_date</string>
       <string name="start_date">Start Date</string>
       <string name="today">today</string>
       <string name="until_date">Until date</string>
       <string name="x_days">For X days</string>
-      <string name="duration">Duration</string>
       <string name="frequency_of_intake">Frequency of Intake</string>
       <string name="x_times_a_day">Daily,X times a day</string>
       <string name="every_x_hours">Daily,every X hours</string>
@@ -193,7 +191,41 @@
       <string name="fri">Friday</string>
       <string name="sat">Saturday</string>
       <string name="sun">Sunday</string>
-        
+    
+    <!--Set Measurement-->
+    <string name="set_measurement">Set Measurement</string>
+     <string name="select_measurement">SELECT MEASUREMENT</string>
+    <string name="add_measurement">ADD MEASUREMENT</string>
+    <string name="add_measurement_time">Add Measurement time</string>
+    <string name="reminder_setting">Reminder Setting</string>
+     <string name="blood_pressure">Blood Pressure</string>
+    <string name="intake_time">Intake Time</string>
+    <string name="enter_values">Enter Values</string>
+    <string name="manually">Manually</string>
+    <string name="ack_time">Acknowledge Time</string>
+    <string name="sys_dia_pulse">Sys/Dia/Pulse</string>
+    <string name="measured_value_sdp">Measured Value(Sys/Dia/Pulse)</string>
+    <string name="reason_for_late_intake">Reason for late intake</string>
+    <string name="reason_for_late_measurement">Reason for late measurement</string>
+    <string name="forgot">Forgot</string>
+    <string name="busy">Busy</string>
+    <string name="feeling_better">Feeling better</string>
+    <string name="finished/expired">Medication finished/expired</string>
+    <string name="not_motivated">Not motivated</string>
+     <string name="unhappy_with_previous_measurement">Unhappy with previous measurement</string>
+    <string name="confirmation_successful">Confirmation successful</string>
+    <string name="successfully_therapy_taken">Successfully marked therapy as taken</string>
+    <string name="loading_therapy">Loading Therapy</string>
+    <string name="please_wait_we_load_therapy">Please wait while we load therapy for you</string>
+    <string name="failed_to_get_therapy">Failed to get Therapy</string>
+    <string name="timed_out">The request timed out.</string>
+    <string name="retry">Retry</string>
+    
+     <string name="blood_sugar">Blood Sugar</string>
+     <string name="temperature">Temperature</string>
+     <string name="oximeter">Oximeter</string>
+    
+    
     <!--Delete Account-->
     <string name="delete_account"> Delete Account</string>
     <string name="want_to_delete_account"> Are you sure you want to delete your account?</string> 
@@ -221,6 +253,10 @@
     <string name="loading_intakes">Loading Intakes </string>
     <string name="intake_data">Please wait while we load intake data for you</string>
     <string name="reports">REPORTS</string>
+    
     <string name="charts">CHARTS</string>
+    <string name="average_compliance">Average Compliance</string>
+    <string name="average_reading">Average Reading</string>
+    <string name="highest_reading">Highest Reading</string>
     <string name="list">LIST</string>
 </resources>
