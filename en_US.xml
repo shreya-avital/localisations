@@ -39,10 +39,9 @@
     <string name="enter_lastname">Enter last name</string>
     <string name="enter_email">	Enter email</string>
     <string name="select_language"> Select Language</string>
-    <string name="i_agree">I agree to the </string>
-    <string name="terms_and_conditions">Terms and Conditions</string>
-    <string name="and">and</string>
-    <string name="privacy_policy">Privacy Policy</string>
+    <string name="i_agree_terms">I agree to the Terms and Conditions and Privacy Policy</string>
+    
+    
     <string name="fill_this">Please fill this</string>
     <string name="register">Register</string>
     <string name="failed">Failed</string>
