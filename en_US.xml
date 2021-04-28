@@ -8,6 +8,7 @@
 	
 	<!--Sync -->
 	<string name="working_on_therapies">Hold on, we are working on your therapies</string>
+	<string name="therapy_sync_success">Successfully Synced Therapies</string>
 
 	<!--Login selection-->
 	<string name="welcome_to_SuperMD">Welcome to SuperMD</string>
