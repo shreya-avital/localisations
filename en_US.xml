@@ -168,7 +168,8 @@
 	<string name="id">ID</string>
 
 	<!--Edit Patient Profile-->
-	<string name="relation_to_caregiver">Relationship to caregiver</string>
+	<string name="relationship_to_caregiver">Relationship to caregiver</string>				    
+	<string name="relation_to_caregiver">Relation to caregiver</string>
 	<string name="father">Father</string>
 	<string name="mother">Mother</string>
 	<string name="grand_father">Grand Father</string>
