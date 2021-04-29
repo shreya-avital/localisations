@@ -1,4 +1,5 @@
 
+
 <resources>
 	<string name="app_name">SuperMD</string>
 	<string name="onboarding_title1">Be comforted in the knowledge that someone’s got your back</string>
@@ -46,6 +47,9 @@
 	<string name="no_caregiver_linked">No Caregiver linked"</string>
 	<string name="invite_caregiver_description">Please invite a caregiver by clicking the invite button.</string>ftherap
 	<string name="search_caregiver_name"> Search caregiver</string>
+	<string name="no_contacts_found">No Contacts Found</string>
+	<string name="phone_doesnt_have_any_contacts">It liooks like phone doesn't have any contacts saved with name $(text)</string>
+
 						
 	<!--Signup Caregiver-->
 	<string name="sign_in_caregiver">Caregiver Sign In</string>
@@ -76,7 +80,9 @@
 	<!--Signup Patient-->
 	
 	<string name="weight">Weight</string>
+	<string name="kg">kg</string>
 	<string name="height">Height</string>
+	<string name="cm">cm</string>
 	<string name="postal_code">Postal Code</string>
 	<string name="ethnicity">Ethnicity</string>
 	<string name="select_ethnicity">Select Ethnicity</string>
@@ -110,6 +116,16 @@
 	
 	<!--Edit Patient Profile-->
 	<string name=relation_to_caregiver">Relationship to caregiver</string>
+	<string name="father">Father</string>
+	<string name="mother">Mother</string>
+	<string name="grand_father">Grand Father</string>
+	<string name="grand_mother">Grand Mother</string>
+	<string name="sister">Sister</string>
+	<string name="brother">Brother</string>
+	<string name="husband">Husband</string>
+	<string name="professional">professional</string>
+	<string name="wife">Wife</string>
+
 	<string name="clinic">Clinic</string>
 	<string name="doctor">Doctor</string>
 	<string name="does_he_smoke">Does he/she smoke ?</string>
@@ -149,8 +165,9 @@
 	
 	<string name="remove_patient">Remove patient</string>
 	<string name="are_you_sure">Are you sure?</string>
-	<string name="remove_this_patient">	Are you sure you want to remove this patient ?</string>
+	<string name="remove_this_patient">Are you sure you want to remove this patient ?</string>
 	<string name="yes">YES</string>
+
 	<string name="therapies">THERAPIES</string>
 	<string name="no_intakes">No Intakes</string>
 	
@@ -169,7 +186,10 @@
 	<string name="add_therapy"> Add Therapy</string>
 	<string name="failed_to_get_therapies"> Failed to get Therapies.</string>
 	
-	
+	<string name="changes_will_be_lost">Changes will be lost<string>
+        <string name="want_to_exit">Are you sure you want to exit?<string>
+
+
 	
 	<string name="cap_no">NO</string>
 	
@@ -231,7 +251,9 @@
 	
 	<!--Secondary caregiver-->
 	<string name="secondary_caregiver">Secondary Caregiver</string>
-	<string name="resign_secondary_caregiver">Resign as Secondary Caregiver</string>
+	<string name="no_caregiver_linked">No Caregiver linked</string>
+	<string name="secondary_caregiver">Secondary Caregiver</string>
+	<string name="invite_alternate_caregiver">Please invite an alternate caregiver by clicking the invite button.</string>
 	
 	<!--Set Medication-->
 	<string name="set_medication">Set Medication</string>
