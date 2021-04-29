@@ -17,7 +17,27 @@
     <string name="therapy_listing_added_by_you_and_caregiver">All the therapies which were added by you or your caregiver will be listed here.</string>
     <string name="still_needs_to_reach_goal">Still needs $n steps to reach the goal.</string>
     <string name="completed_steps">You have completed your steps goal.</string>
+	
+	<!--Caregiver Notification Setting-->
     <string name="cargiver_notification_settings">Caregiver Notification Setting</string>
+	
+    <string name="load_notification_for_you">Please wait while we load Notifications for you</string>
+    <string name="caps_caregiver_notification">CAREGIVER NOTIFICATION</string>
+    <string name="medication_setting">Medication Setting</string>
+    <string name="notified_when_patient_confirms_medicine_intake">By selecting this,caregiver will be notified when patient confirms medicine intake.</string>
+    <string name="patient_misses_medicine_intake">By selecting this,caregiver will be notified if patient misses medicine intake.</string>
+    <string name="cargiver_notification_settings">Caregiver Notification Setting</string>
+    <string name="measurement_setting">Measurement Setting</string>
+    <string name="notified_when_patient_completes_measurement">By selecting this,caregiver will be notified when patient completes measurement.</string>
+    <string name="patient_misses_measurement">By selecting this,caregiver will be notified if patient misses measurement.</string>
+	
+    <string name="set_measurement_parameters">Set Measurement Parameters</string>
+    <string name="caps_set_measurement_parameters">SET MEASUREMENT PARAMETERS</string>
+	
+    <string name="notification_time_setting">Notification Time Setting</string>
+    <string name="notification_if_patient_misses_therapies">Caregiver will be notified if patient misses therapies and/or parameters are breached.</string>
+    <string name="notification_every_x_min">Send notification every (x) mins</string>
+    <string name="notification_stops_after_patient_resumes">Note: This notification will stop after patient resumes meds and/or caregiver acknowledges notification</string>
 
 
     <!--Login selection-->
@@ -68,6 +88,8 @@
     <string name="i_agree_terms">I agree to the Terms and Conditions and Privacy Policy</string>
     <string name="terms_and_condition">Terms and Conditions</string>
     <string name="privacy_policy">Privacy Policy</string>
+	
+     
 
 
     <string name="fill_this">Please fill this</string>
