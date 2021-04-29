@@ -32,7 +32,40 @@
 	<string name="patient_misses_measurement">By selecting this,caregiver will be notified if patient misses measurement.</string>
 
 	<string name="set_measurement_parameters">Set Measurement Parameters</string>
-	<string name="caps_set_measurement_parameters">SET MEASUREMENT PARAMETERS</string>
+   	<string name="blood_pressure_setting">Blood pressure setting</string>
+	<string name="blood_pressure_falls_below">When blood pressure falls below</string>
+	<string name="blood_pressure_goes_above">When blood pressure goes above</string>
+	
+	<string name="blood_sugar_setting">Blood sugar setting</string>
+    	<string name="blood_sugar_falls_below_after_meal">When blood sugar falls below(after meal)</string>
+    	<string name="blood_sugar_falls_above_after_meal">When blood sugar goes above (after meal)</string>
+    	<string name="blood_sugar_falls_below_before_meal">When blood sugar falls below(before meal)</string>
+    	<string name="blood_sugar_falls_above_before_meal">When blood sugar goes above (before meal)</string>
+	
+    	<string name="weight_setting">Weight setting</string>
+    	<string name="caps_weight">WEIGHT</string>
+    	<string name="weight_in_kg">Weight(kg)</string>
+    	<string name="weight_falls_by_x">After weight falls by (x)%</string>
+	
+    	<string name="five">5</string>
+    	<string name="ten">10</string>
+    	<string name="fifteen">15</string>
+    	<string name="twenty">20</string>
+    	<string name="twentyfive">25</string>
+    	<string name="weight_increases_by_x">After weight increases by (x)%</string>
+    	<string name="weight_between_one_to_sixhundred">Enter weight between 1 to 600</string>
+	
+	<string name="caps_temperature">TEMPERATURE</string>
+    	<string name="temperature_setting">Temperature setting</string>
+    	<string name="temperature_falls_below_c">When temperature falls below (c)</string>
+    	<string name="temperature_goes_above_c>When temperature goes above (c)</string>
+    	<string name="oximeter_setting">Oximeter setting</string>
+    	<string name="min_oxygen_level">Monimum Oxygen Level</string>
+    	<string name="steps_setting">Steps setting</string>
+    	<string name="num_of_steps_to_complete">Number of steps to complete</string>
+    	<string name="valid_steps_value">Enter valid steps value.</string>
+	
+	
 
 	<string name="notification_time_setting">Notification Time Setting</string>
 	<string name="notification_if_patient_misses_therapies">Caregiver will be notified if patient misses therapies and/or parameters are breached.</string>
@@ -57,7 +90,7 @@
 	<string name="invalid_phone_number">Enter valid mobile number. </string>
 	<string name="login">Login</string>
 	<string name="dont_have_an_account">Don’t have an acount?</string>
-	<string name="signup">Sign up, it’s free!</string>
+	<string name="signup">Sign up, it\’s free!</string>
 
 	<!--Patient Sign In-->
 	<string name="patient_sign_in">Patient Sign In</string>
@@ -87,7 +120,9 @@
 	<string name="i_agree_terms">I agree to the Terms and Conditions and Privacy Policy</string>
 	<string name="terms_and_condition">Terms and Conditions</string>
 	<string name="privacy_policy">Privacy Policy</string>
-
+	
+	<string name="patient_not_found">Patient not found.</string>
+	<string name="invalid_contact_number">Invalid contact number</string>
 
 
 
@@ -132,8 +167,8 @@
 	<string name="age">Age</string>
 	<string name="id">ID</string>
 
-	<!--Edit Patient Profile-->
-	<string name="relation_to_caregiver">Relationship to caregiver</string>
+	<!--Edit Patient Profile-->				    
+	<string name="relation_to_caregiver">Relation to caregiver</string>
 	<string name="father">Father</string>
 	<string name="mother">Mother</string>
 	<string name="grand_father">Grand Father</string>
@@ -198,8 +233,18 @@
 	<string name="no_measurements">No Measurements</string>
 	<string name="no_therapies_scheduled">No therapies have been scheduled yet,please set therapies</string>
 	<string name="no_therapy_found"> No Therapy found</string>
-	<string name="add_therapy"> Add Therapy</string>
 	<string name="failed_to_get_therapies"> Failed to get Therapies.</string>
+	<string name="bravo">Bravo !</string>
+	<string name="great_job">Great job !</string>
+	<string name="superb">Superb !</string>
+	<string name="well_done">Well done !</string>
+	<string name="brilliant">Brilliant !</string>
+	<string name="confirmation_failed">Confirmation failed</string>
+	<string name="step_up_device_to_calculate_weight">Please step up on the device to calculate the weight.</string>
+	<string name="step_up_device_to_take_another_reading">Please step down and step up on the device to take another reading.</string>
+	<string name="restart_device_to_retake_measurement">Please restart the device to retake measurement.</string>
+	<string name="press_start_button_to_take_another_reading">Press START button to take another reading.</string>
+	<string name="error">Error</string>
 
 	<string name="changes_will_be_lost">Changes will be lost</string>
 	<string name="want_to_exit">Are you sure you want to exit?</string>
@@ -365,6 +410,9 @@
 	<!--Settings-->
 	<!--Notification-->
 	<string name="notification">NOTIFICATION</string>
+	<string name="failed_to_get_notification">Failed to get Notifications</string>
+	<string name="notification">NOTIFICATION</string>
+				   
 	<string name="connect_to_network_to_notify_caregiver">Please connect to the internet so that your caregiver is notified about the therapies.</string>
 	<string name="no_notification_found">No Notifiactions found</string>
 	<string name="havent_received_notification">You haven\'t received any notifications yet.</string>
@@ -388,16 +436,6 @@
 	<string name="list">LIST</string>
 
 
-
-
-
-
-
-
-
-
-
-
 	<string name="please_check_the_number">Please check the number!</string>
 	<string name="are_you_sure_you_want_to_resign_as_caregiver">Are you sure you want to resign as caregiver</string>
 	<string name="patient_report_failed">Patient Report failed!</string>
@@ -410,10 +448,13 @@
 	<string name="invalid_contact_number">Invalid contact number</string>
 	<string name="successfully_reported_patient">Successfully reported patient.</string>
 	<string name="successfully_removed_patient">Successfully removed patient.</string>
-
-
-
-
+			   
+			   		   
+	<!-- Invitation -->
+	<string name="caps_invitations">INVITATIONS</string>		   
+	<string name="no_invites_found">No Invites found</string>
+	<string name="no_invites_for you">It looks like you don't have any invites for you.</string>
+			   
 	<!-- iOS Specific -->
 	<string name="low_power_mode_is_on">Low Power Mode is On</string>
 	<string name="low_power_mode_is_on_results">Please turn off Low Power Mode as it will result in loss of reminders.</string>
