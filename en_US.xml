@@ -55,6 +55,8 @@
 	<string name="email">Email </string>
 	<string name="dob">Date of Birth</string>
 	<string name="gender">Gender</string>
+	<string name="male">Male</string>
+	<string name="female">Female</string>
 	<string name="language">Language</string>
 	<string name="timezone">Time Zone </string>
 	<string name="time_zone_selected_doesnot_match_system_timezone">The selected time zone doesn't match with the phone time zone.</string>
@@ -72,18 +74,51 @@
 	<string name="failed">Failed</string>
 	
 	<!--Signup Patient-->
+	
 	<string name="weight">Weight</string>
 	<string name="height">Height</string>
 	<string name="postal_code">Postal Code</string>
 	<string name="ethnicity">Ethnicity</string>
+	<string name="select_ethnicity">Select Ethnicity</string>
+	<string name="asian">Asian</string>
+	<string name="white">White</string>
+	<string name="african_american">African American</string>
+	<string name="native_american_alaskan">Native American/Alaskan native</string>
+	<string name="pacific_islander">Pacific Islander</string>
+	
 	<string name="do_you_smoke">Do you smoke?</string>
+	<string name="no">No
+	<string name="occasionally">Occasionally
+	<string name="one_to_five_daily">1-5 daily</string>
+	<string name="five_to_ten_daily">5-10 daily</string>
+	<string name="ten_to_20_daily">10-20 daily</string>
+	<string name="twenty_to_thirty_daily">20-30 daily</string>
+	<string name="thirty_to_forty_daily">30-40 daily</string>
+	<string name="more_than_40">more than 40</string>
+	<string name="state_how_many_units_daily"> State how many units daily</string>
 	<string name="do_you_drink">Do you drink alcohol?</string>
+	<string name="one_to_five_units_daily">1-5 units daily</string>
+	<string name="five_to_ten_units_daily">5-10 units daily</string>	
+	<string name="ten_to_fifteen_units_daily">10-15 units daily</string>
+	<string name="more_thn 15">more than 15</string>	
 	<string name="known_medical_conditions">Known medical conditions</string>
+	<string name="search_medical_conditions">Search Medical Conditions</string>
 	<string name="click_to_select_conditions">Click to select conditions</string>
 	<string name="pre_existing_conditions">Pre existing conditions</string>
 	<string name="age">Age</string>
 	<string name="id">ID</string>
 	
+	<!--Edit Patient Profile-->
+	<string name=relation_to_caregiver">Relationship to caregiver</string>
+	<string name="clinic">Clinic</string>
+	<string name="doctor">Doctor</string>
+	<string name="does_he_smoke">Does he/she smoke ?</string>
+	<string name="does_he_drinks">Does he/she drink alcohol ?</string>
+	<string name="how_many_cigarette">State how many cigarette</string>
+	<string name="how_many_units">State how many units daily</string>				  
+					   
+					   
+					   
 	<!--Patient listing-->
 	<string name="create_patient">Create an account to continue as Patient</string>
 	
@@ -97,9 +132,11 @@
 	<string name="didnt_receive_otp">Didn't receive the OTP</string>
 	<string name="resend_otp">Resend OTP </string>
 	<string name="verify">Verify </string>
-	
-	<string name="cancel">CANCEL</string>
-	
+	string name="network_connection_lost">The network connection was lost.</string>
+			    
+	<string name="cap_cancel">CANCEL</string>
+	<string name="cancel">Cancel</string>
+				 
 	<!--Loading screen-->
 	<string name="select_country">Select Country</string>
 	<string name="search_country">Search Country</string>
@@ -134,7 +171,7 @@
 	
 	
 	
-	<string name="no">NO</string>
+	<string name="cap_no">NO</string>
 	
 	<string name="call">Call</string>
 	<string name="edit_patient">Edit Patient</string>
@@ -155,7 +192,7 @@
 	<string name="not_supporting_version">	 We are not supporting this version as we have added some news features and fixed some major bugs to make your experience as smooth as possible.</string>
 	
 	<string name="select_timezone">Select Time Zone</string>
-	<string name="type_timezone">Type Time Zone</string>
+	<string name="search_timezone">Search Time Zone</string>
 	<string name="no_patient_found">No Patients found</string>
 	<string name="please_wait">Please wait</string>
 	<string name="setting">Setting</string>
@@ -172,6 +209,7 @@
 	<string name="here"> here</string>
 	<string name="camera"> Camera</string>
 	<string name="gallery"> Gallery</string>
+	<string name="choose_an_option"> Choose an Option</string>		      
 	<string name="update"> UPDATE</string>.
 	<string name="success"> Success</string>
 	<string name="profile_updated"> Successfully updated Profile.</string>
@@ -236,9 +274,9 @@
 	
 	<!--Loading Patients-->
 	<string name="loading_patients_title"> Loading Patients</string>
-	<string name="loading_patients_message" = "Please wait while we load patients for you.</string>
-	<string name="Failed_to_get_Patients" = "Failed to get Patients.</string>
-	<string name="No_Patients_found" = "No Patients found</string>
+	<string name="loading_patients_message"> Please wait while we load patients for you.</string>
+	<string name="Failed_to_get_Patients">Failed to get Patients.</string>
+	<string name="No_Patients_found">No Patients found</string>
 	<string name="Add_Patient_clicking_Invite_button"> Add a Patient by clicking the Invite button</string>
 	<string name="invite_patient"> Invite Patient</string>
 
