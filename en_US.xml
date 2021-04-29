@@ -167,8 +167,7 @@
 	<string name="age">Age</string>
 	<string name="id">ID</string>
 
-	<!--Edit Patient Profile-->
-	<string name="relationship_to_caregiver">Relationship to caregiver</string>				    
+	<!--Edit Patient Profile-->				    
 	<string name="relation_to_caregiver">Relation to caregiver</string>
 	<string name="father">Father</string>
 	<string name="mother">Mother</string>
