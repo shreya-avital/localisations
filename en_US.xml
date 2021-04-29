@@ -386,7 +386,37 @@
 	<string name="highest_reading">Highest Reading</string>
 	<string name="highest_percentage">Highest Percentage</string>
 	<string name="list">LIST</string>
+
+
+
+
+
+
+
+
+
+
+
+
+	<string name="please_check_the_number">Please check the number!</string>
+	<string name="are_you_sure_you_want_to_resign_as_caregiver">Are you sure you want to resign as caregiver</string>
+	<string name="patient_report_failed">Patient Report failed!</string>
+	<string name="patient_removing_failed">Patient Removing failed!</string>
+	<string name="successfully_resigned_as_secondary_caregiver">Successfully resigned as secondary caregiver.</string>
+	<string name="caregiver_resignation_failed">Caregiver resignation failed!</string>
+	<string name="you_can_invite_new_patients_by_clicking_on_the_invite_button">You can invite new patient's by clicking on the invite button.</string>
+	<string name="you_can_add_new_patient_by_clicking_on_the_add_button">You can add new patient by clicking on the add button.</string>
+	<string name="late_intake_reason">Late Intake Reason</string>
+	<string name="invalid_contact_number">Invalid contact number</string>
+	<string name="successfully_reported_patient">Successfully reported patient.</string>
+	<string name="successfully_removed_patient">Successfully removed patient.</string>
+
+
+
+
 	<!-- iOS Specific -->
 	<string name="low_power_mode_is_on">Low Power Mode is On</string>
 	<string name="low_power_mode_is_on_results">Please turn off Low Power Mode as it will result in loss of reminders.</string>
+	<string name="supermd_requires_contacts_permission_in_order_to_invite_the_patients">SuperMD requires contacts permission in order to invite the patients.</string>
+
 </resources>
