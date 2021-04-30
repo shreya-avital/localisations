@@ -27,7 +27,6 @@
 	<string name="medication_setting">Medication Setting</string>
 	<string name="notified_when_patient_confirms_medicine_intake">By selecting this,caregiver will be notified when patient confirms medicine intake.</string>
 	<string name="patient_misses_medicine_intake">By selecting this,caregiver will be notified if patient misses medicine intake.</string>
-	<string name="cargiver_notification_settings">Caregiver Notification Setting</string>
 	<string name="measurement_setting">Measurement Setting</string>
 	<string name="notified_when_patient_completes_measurement">By selecting this,caregiver will be notified when patient completes measurement.</string>
 	<string name="patient_misses_measurement">By selecting this,caregiver will be notified if patient misses measurement.</string>
@@ -90,7 +89,7 @@
 	<string name="mobile_no">Mobile Number </string>
 	<string name="invalid_phone_number">Enter valid mobile number. </string>
 	<string name="login">Login</string>
-	<string name="dont_have_an_account">Don’t have an acount?</string>
+	<string name="dont_have_an_account">Don\’t have an acount?</string>
 	<string name="signup">Sign up, it\’s free!</string>
 
 	<!--Patient Sign In-->
@@ -267,7 +266,7 @@
 	<string name="added_features">We have added some new features and fixed some bugs to make your experience as smooth as possible.</string>
 	<string name="download_update">Download Update	</string>
 	<string name="under_maintainance">	Under Maintenance	</string>
-	<string name="undergoing_maintainace">We are currently undergoing maintenance this won’t take long</string>
+	<string name="undergoing_maintainace">We are currently undergoing maintenance this won\’t take long</string>
 	<string name="try_again">Try Again</string>
 	<string name="update_required">	Update Required!</string>
 	<string name="not_supporting_version">	 We are not supporting this version as we have added some news features and fixed some major bugs to make your experience as smooth as possible.</string>
@@ -419,7 +418,6 @@
 	<!--Notification-->
 	<string name="notification">NOTIFICATION</string>
 	<string name="failed_to_get_notification">Failed to get Notifications</string>
-	<string name="notification">NOTIFICATION</string>
 
 	<string name="connect_to_network_to_notify_caregiver">Please connect to the internet so that your caregiver is notified about the therapies.</string>
 	<string name="no_notification_found">No Notifiactions found</string>
@@ -453,7 +451,6 @@
 	<string name="you_can_invite_new_patients_by_clicking_on_the_invite_button">You can invite new patient's by clicking on the invite button.</string>
 	<string name="you_can_add_new_patient_by_clicking_on_the_add_button">You can add new patient by clicking on the add button.</string>
 	<string name="late_intake_reason">Late Intake Reason</string>
-	<string name="invalid_contact_number">Invalid contact number</string>
 	<string name="successfully_reported_patient">Successfully reported patient.</string>
 	<string name="successfully_removed_patient">Successfully removed patient.</string>
 
@@ -461,13 +458,12 @@
 	<!-- Invitation -->
 	<string name="caps_invitations">INVITATIONS</string>		   
 	<string name="no_invites_found">No Invites found</string>
-	<string name="no_invites_for you">It looks like you don't have any invites for you.</string>
+	<string name="no_invites_for_you">It looks like you don\'t have any invites for you.</string>
 	<string name="you_are_not_allowed_to_add_update_therapies">You are not allowed to add/update therapies.</string>
 	<string name="condition_will_be_removed">Condition will be removed</string>
 	<string name="are_you_sure_you_want_to_remove">Are you sure you want to remove?</string>
 	<string name="no_results_found">No Results Found</string>
 	<string name="do_you_want_to_add">Do you want to add ${text}?</string>
-	<string name="unsupported_therapy">Unsupported Therapy</string>
 	<string name="this_therapy_type_is_not_yet_supported_in_current_version">This therapy type is not yet supported in current version.</string>
 	<string name="failed_to_load">Failed to load ${text}</string>
 	<string name="invalid_url">Invalid URL.</string>
@@ -480,8 +476,8 @@
 	<string name="failed_to_update">Failed to update.</string>
 	<string name="successfully_updated_profile">Successfully updated Profile.</string>
 	<string name="warning">Warning</string>
-	<string name="you_dont_have_camera">You don't have camera</string>
-	<string name="you_dont_have_permission_to_access_gallery">You don't have permission to access gallery.</string>
+	<string name="you_dont_have_camera">You don\'t have camera</string>
+	<string name="you_dont_have_permission_to_access_gallery">You don\'t have permission to access gallery.</string>
 	<string name="unacknowledged">Unacknowledged</string>
 	<string name="pending">PENDING</string>
 	<string name="secondary">SECONDARY</string>
@@ -491,7 +487,10 @@
 	<string name="here_you_can_change_the_acknowledging_time_of_your_therapy_before_confirming_it">Here you can change the acknowledging time of your therapy before confirming it.</string>
 	<string name="enter_the_values_manually_or_capture_from_the_selected_bluetooth_devices">Enter the values manually or capture from the selected Bluetooth devices.</string>
 
-
+	<!-- Validations -->
+	<string name="select_gender">Select Gender</string>
+	<string name="select_date_of_birth">Select Date of Birth</string>
+	<string name="enter_postal_code">Enter Postal Code</string>
 
 
 
