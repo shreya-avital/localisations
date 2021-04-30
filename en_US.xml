@@ -169,7 +169,7 @@
 	<string name="age">Age</string>
 	<string name="id">ID</string>
 
-	<!--Edit Patient Profile-->				    
+	<!--Edit Patient Profile-->
 	<string name="relation_to_caregiver">Relation to caregiver</string>
 	<string name="father">Father</string>
 	<string name="mother">Mother</string>
@@ -456,7 +456,7 @@
 
 
 	<!-- Invitation -->
-	<string name="caps_invitations">INVITATIONS</string>		   
+	<string name="caps_invitations">INVITATIONS</string>
 	<string name="no_invites_found">No Invites found</string>
 	<string name="no_invites_for_you">It looks like you don\'t have any invites for you.</string>
 	<string name="you_are_not_allowed_to_add_update_therapies">You are not allowed to add/update therapies.</string>
@@ -491,6 +491,17 @@
 	<string name="select_gender">Select Gender</string>
 	<string name="select_date_of_birth">Select Date of Birth</string>
 	<string name="enter_postal_code">Enter Postal Code</string>
+	<string name="select_wheather_patient_smokes">Select wheather patient smokes</string>
+	<string name="enter_how_many_cigarette">Enter how many cigarette</string>
+	<string name="select_wheather_patient_drinks">Select wheather patient drinks</string>
+	<string name="enter_how_many_units_daily">Enter how many units daily</string>
+<string name="select_known_medical_conditions">Select known medical conditions</string>
+<string name="please_fill_required_fields_first">Please fill required fields first.</string>
+<string name="invalid_patient_id">Invalid Patient Id</string>
+<string name="enter_doctor_name">Enter Doctor name</string>
+
+<string name="note_enabling_the_below_button_will_set_the_caregiver_as_primary">Note: Enabling the below button will set the caregiver as Primary.</string>
+
 
 
 
