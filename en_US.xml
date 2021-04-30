@@ -448,7 +448,7 @@
 	<string name="patient_removing_failed">Patient Removing failed!</string>
 	<string name="successfully_resigned_as_secondary_caregiver">Successfully resigned as secondary caregiver.</string>
 	<string name="caregiver_resignation_failed">Caregiver resignation failed!</string>
-	<string name="you_can_invite_new_patients_by_clicking_on_the_invite_button">You can invite new patient's by clicking on the invite button.</string>
+	<string name="you_can_invite_new_patients_by_clicking_on_the_invite_button">You can invite new patient\'s by clicking on the invite button.</string>
 	<string name="you_can_add_new_patient_by_clicking_on_the_add_button">You can add new patient by clicking on the add button.</string>
 	<string name="late_intake_reason">Late Intake Reason</string>
 	<string name="successfully_reported_patient">Successfully reported patient.</string>
