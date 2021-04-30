@@ -81,7 +81,7 @@
 	<string name="patient">	Patient</string>
 	<string name="not_sure">Not Sure</string>
 	<string name="next">Next</string>
-	<string name="select_caregiver_or_patient"> Select Caregiver OR Patient to proceed</string>
+	<string name="select_caregiver_or_patient">Select Caregiver OR Patient to proceed</string>
 	<string name="select">Select</string>
 
 	<!--Login caregiver-->
@@ -97,7 +97,7 @@
 	<string name="patient_sign_in">Patient Sign In</string>
 	<string name="no_caregiver_linked">No Caregiver linked</string>
 	<string name="invite_caregiver_description">Please invite a caregiver by clicking the invite button.</string>
-	<string name="search_caregiver_name"> Search caregiver</string>
+	<string name="search_caregiver_name">Search caregiver</string>
 	<string name="phone_doesnt_have_any_contacts">It liooks like phone doesn\'t have any contacts saved with name $(text)</string>
 
 
@@ -117,7 +117,7 @@
 	<string name="enter_firstname">Enter first name</string>
 	<string name="enter_lastname">Enter last name</string>
 	<string name="enter_email">	Enter email</string>
-	<string name="select_language"> Select Language</string>
+	<string name="select_language">Select Language</string>
 	<string name="i_agree_terms">I agree to the Terms and Conditions and Privacy Policy</string>
 	<string name="terms_and_condition">Terms and Conditions</string>
 	<string name="privacy_policy">Privacy Policy</string>
@@ -155,7 +155,7 @@
 	<string name="twenty_to_thirty_daily">20-30 daily</string>
 	<string name="thirty_to_forty_daily">30-40 daily</string>
 	<string name="more_than_40">more than 40</string>
-	<string name="state_how_many_units_daily"> State how many units daily</string>
+	<string name="state_how_many_units_daily">State how many units daily</string>
 	<string name="do_you_drink">Do you drink alcohol?</string>
 	<string name="one_to_five_units_daily">1-5 units daily</string>
 	<string name="five_to_ten_units_daily">5-10 units daily</string>
@@ -228,15 +228,15 @@
 	<string name="activities">ACTIVITIES</string>
 	<string name="week">WEEK</string>
 	<string name="month">MONTH</string>
-	<string name="three_months"> 3 MONTHS</string>
+	<string name="three_months">3 MONTHS</string>
 	<string name="no_data">No data</string>
 	<string name="no_data_available">No chart data available.</string>
 
 	<string name="history">HISTORY</string>
 	<string name="no_measurements">No Measurements</string>
 	<string name="no_therapies_scheduled">No therapies have been scheduled yet,please set therapies</string>
-	<string name="no_therapy_found"> No Therapy found</string>
-	<string name="failed_to_get_therapies"> Failed to get Therapies.</string>
+	<string name="no_therapy_found">No Therapy found</string>
+	<string name="failed_to_get_therapies">Failed to get Therapies.</string>
 	<string name="bravo">Bravo !</string>
 	<string name="great_job">Great job !</string>
 	<string name="superb">Superb !</string>
@@ -281,20 +281,20 @@
 	<string name="no_contacts_found">No Contacts Found</string>
 
 
-	<string name="change_number"> CHANGE NUMBER</string>
-	<string name="changing_your_mobile_number_"> Changing your Mobile number will migrate your account information to the new number</string>
+	<string name="change_number">CHANGE NUMBER</string>
+	<string name="changing_your_mobile_number_">Changing your Mobile number will migrate your account information to the new number</string>
 
 	<!--Edit Profile-->
-	<string name="edit_profile"> Edit Profile</string>
-	<string name="complete_profile"> Please complete your profile\nby clicking here</string>
-	<string name="here"> here</string>
+	<string name="edit_profile">Edit Profile</string>
+	<string name="complete_profile">Please complete your profile\nby clicking here</string>
+	<string name="here">here</string>
 	<string name="remove_photo">Remove Photo</string>
-	<string name="camera"> Camera</string>
-	<string name="gallery"> Gallery</string>
-	<string name="choose_an_option"> Choose an Option</string>
-	<string name="update"> UPDATE</string>
-	<string name="success"> Success</string>
-	<string name="profile_updated"> Successfully updated Profile.</string>
+	<string name="camera">Camera</string>
+	<string name="gallery">Gallery</string>
+	<string name="choose_an_option">Choose an Option</string>
+	<string name="update">UPDATE</string>
+	<string name="success">Success</string>
+	<string name="profile_updated">Successfully updated Profile.</string>
 
 
 	<!--Therapy Settings-->
@@ -303,9 +303,9 @@
 	<string name="continue_to_listing">Continue to Therapy listing</string>
 	<string name="edit_therapies">Edit Therapies</string>
 	<string name="inventory_fall">Notify when inventory falls to (x) number of days.</string>
-	<string name="loading_therapies"> Loading Therapies</string>
+	<string name="loading_therapies">Loading Therapies</string>
 	<string name="therapy_paused">This therapy is paused</string>
-	<string name="loading_therapies_message"> Please wait while we load therapies for you.</string>
+	<string name="loading_therapies_message">Please wait while we load therapies for you.</string>
 	<string name="enable_patient">Enable patient to manage therapies</string>
 	<string name="mail_open_failed">Please check your mail app.</string>
 	<string name="enable_caregiver_manager_therapy_message">Enable caregiver to manage therapies</string>
@@ -353,14 +353,14 @@
 	<string name="fri">Friday</string>
 	<string name="sat">Saturday</string>
 	<string name="sun">Sunday</string>
-	<string name="add_intake_time_to_manage_inventory"> Please add intake time in order to manage inventory.</string>
+	<string name="add_intake_time_to_manage_inventory">Please add intake time in order to manage inventory.</string>
 
 	<!--Loading Patients-->
-	<string name="loading_patients_title"> Loading Patients</string>
-	<string name="loading_patients_message"> Please wait while we load patients for you.</string>
+	<string name="loading_patients_title">Loading Patients</string>
+	<string name="loading_patients_message">Please wait while we load patients for you.</string>
 	<string name="Failed_to_get_Patients">Failed to get Patients.</string>
 	<string name="No_Patients_found">No Patients found</string>
-	<string name="Add_Patient_clicking_Invite_button"> Add a Patient by clicking the Invite button</string>
+	<string name="Add_Patient_clicking_Invite_button">Add a Patient by clicking the Invite button</string>
 
 	<!--Set Measurement-->
 	<string name="set_measurement">Set Measurement</string>
@@ -399,11 +399,11 @@
 
 
 	<!--Delete Account-->
-	<string name="delete_account"> Delete Account</string>
-	<string name="want_to_delete_account"> Are you sure you want to delete your account?</string>
+	<string name="delete_account">Delete Account</string>
+	<string name="want_to_delete_account">Are you sure you want to delete your account?</string>
 
 	<!--Version-->
-	<string name="version"> Version </string>
+	<string name="version">Version </string>
 
 	<!--Help-->
 	<string name="help">Help</string>
@@ -433,7 +433,7 @@
 	<string name="intake_data">Please wait while we load intake data for you</string>
 	<string name="reports">REPORTS</string>
 	<string name="generate_report">Generate Report</string>
-	<string name="generate_report_description">  Generate reports for selected number of months</string>
+	<string name="generate_report_description">Generate reports for selected number of months</string>
 	<string name="generate">Generate</string>
 
 	<string name="charts">CHARTS</string>
@@ -489,7 +489,8 @@
 	<string name="connect">CONNECT</string>
 	<string name="successfully_marked_therapy_as_taken">Successfully marked therapy as taken.</string>
 	<string name="here_you_can_change_the_acknowledging_time_of_your_therapy_before_confirming_it">Here you can change the acknowledging time of your therapy before confirming it.</string>
-<string name=""enter_the_values_manually_or_capture_from_the_selected_bluetooth_devices"">"Enter the values manually or capture from the selected Bluetooth devices."</string>
+	<string name="enter_the_values_manually_or_capture_from_the_selected_bluetooth_devices">Enter the values manually or capture from the selected Bluetooth devices.</string>
+
 
 
 
