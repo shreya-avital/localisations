@@ -373,6 +373,9 @@
 	<string name="enter_values">Enter Values</string>
 	<string name="manually">Manually</string>
 	<string name="ack_time">Acknowledge Time</string>
+	<string name="sys">SYS</string>
+	<string name="dia">DIA</string>
+	<string name="pulse">Pulse</string>
 	<string name="sys_dia_pulse">Sys/Dia/Pulse</string>
 	<string name="measured_value_sdp">Measured Value(Sys/Dia/Pulse)</string>
 	<string name="reason_for_late_intake">Reason for late intake</string>
@@ -477,6 +480,16 @@
 	<string name="failed_to_update">Failed to update.</string>
 	<string name="successfully_updated_profile">Successfully updated Profile.</string>
 	<string name="warning">Warning</string>
+	<string name="you_dont_have_camera">You don't have camera</string>
+	<string name="you_dont_have_permission_to_access_gallery">You don't have permission to access gallery.</string>
+	<string name="unacknowledged">Unacknowledged</string>
+	<string name="pending">PENDING</string>
+	<string name="secondary">SECONDARY</string>
+	<string name="changing_your_phone_number_will_migrate_your_account_information_to_the_new_number">Changing your phone number will migrate your account information to the new number.</string>
+	<string name="connect">CONNECT</string>
+	<string name="successfully_marked_therapy_as_taken">Successfully marked therapy as taken.</string>
+	<string name="here_you_can_change_the_acknowledging_time_of_your_therapy_before_confirming_it">Here you can change the acknowledging time of your therapy before confirming it.</string>
+<string name=""enter_the_values_manually_or_capture_from_the_selected_bluetooth_devices"">"Enter the values manually or capture from the selected Bluetooth devices."</string>
 
 
 
