@@ -495,14 +495,16 @@
 	<string name="enter_how_many_cigarette">Enter how many cigarette</string>
 	<string name="select_wheather_patient_drinks">Select wheather patient drinks</string>
 	<string name="enter_how_many_units_daily">Enter how many units daily</string>
-<string name="select_known_medical_conditions">Select known medical conditions</string>
-<string name="please_fill_required_fields_first">Please fill required fields first.</string>
-<string name="invalid_patient_id">Invalid Patient Id</string>
-<string name="enter_doctor_name">Enter Doctor name</string>
+	<string name="select_known_medical_conditions">Select known medical conditions</string>
+	<string name="please_fill_required_fields_first">Please fill required fields first.</string>
+	<string name="invalid_patient_id">Invalid Patient Id</string>
+	<string name="enter_doctor_name">Enter Doctor name</string>
 
-<string name="note_enabling_the_below_button_will_set_the_caregiver_as_primary">Note: Enabling the below button will set the caregiver as Primary.</string>
+	<string name="note_enabling_the_below_button_will_set_the_caregiver_as_primary">Note: Enabling the below button will set the caregiver as Primary.</string>
+	<string name="set_as_primary_caregiver">Set as Primary Caregiver</string>
 
-
+	<string name="do_you_smoke">Do you smoke?</string>
+	<string name="do_you_drink_alcohol">Do you drink alcohol?</string>
 
 
 	<!-- iOS Specific -->
