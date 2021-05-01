@@ -671,7 +671,7 @@
     <string name="enable_notifications">Enable Notifications</string>
     <string name="it_looks_like_you_have_turned_off_the_notifications_for_supermd_please_go_to_settings_and_allow_supermd_to_send_you_notifications">It looks like you have turned off the notifications for SuperMD, please go to settings and allow SuperMd to send you notifications</string>
     <string name="update_time_zone">Update Time Zone</string>
-    <string name="it_looks_like_you_have_just_travelled_to_other_timezone_please_update_the_time_zone_by_clicking_edit_profile_button">It looks like you have just travelled to other timezone, Please update the time zone by clicking edit profile button.</string>
+    <string name="it_looks_like_you_have_just_travelled_to_other_timezone_please_update_the_time_zone_by_clicking_edit_profile_button">It looks like you have moved to a different Country, please update the timezone by clicking the Edit Profile button</string>
 
     <string name="we_have_added_some_new_features_and_fixed_some_bugs_to_make_your_experience_as_smooth_as_possible">We have added some new features and fixed some bugs to make your experience as smooth as possible.</string>
 
