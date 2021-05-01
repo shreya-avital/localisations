@@ -567,7 +567,7 @@
 
     <string name="successfully_fetched_master_data">Successfully fetched master data.</string>
 
-    <string name="caregivers">CAREGIVERS</string>
+    <string name="caregivers">Caregivers</string>
     <string name="error_loading_caregivers">Error loading Caregivers</string>
     <string name="failed_to_accept">Failed to accept</string>
     <string name="failed_to_reject">Failed to reject</string>
