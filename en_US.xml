@@ -677,6 +677,7 @@
 
     <string name="under_maintenance">Under Maintenance</string>
     <string name="we_are_currently_undergoing_maintenance_this_wont_take_long">We are currently undergoing maintenance this won\’t take long</string>
+    <string name="is_the_mobile_number_correct">Is the Mobile Number correct?</string>
 
     <!-- iOS Specific -->
     <string name="low_power_mode_is_on">Low Power Mode is On</string>
