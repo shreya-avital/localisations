@@ -23,7 +23,7 @@
     <string name="cargiver_notification_settings">Caregiver Notification Setting</string>
 
     <string name="load_notification_for_you">Please wait while we load Notifications for you</string>
-    <string name="caps_caregiver_notification">CAREGIVER NOTIFICATION</string>
+    <string name="caregiver_notification">Caregiver Notification</string>
     <string name="medication_setting">Medication Setting</string>
     <string name="notified_when_patient_confirms_medicine_intake">By selecting this,caregiver will be notified when patient confirms medicine intake.</string>
     <string name="patient_misses_medicine_intake">By selecting this,caregiver will be notified if patient misses medicine intake.</string>
@@ -227,7 +227,7 @@
     <string name="are_you_sure">Are you sure?</string>
     <string name="remove_this_patient">Are you sure you want to remove this patient ?</string>
     <string name="yes">YES</string>
-    <string name="therapies">THERAPIES</string>
+    <string name="therapies">Therapies</string>
     <string name="no_intakes">No Intakes</string>
 
 
@@ -347,7 +347,7 @@
     <string name="close">close</string>
     <string name="duration">Duration</string>
     <string name="start_date">Start Date</string>
-    <string name="today">today</string>
+    <string name="today">Today</string>
     <string name="until_date">Until date</string>
     <string name="x_days">For X days</string>
     <string name="frequency">Frequency</string>
@@ -469,7 +469,7 @@
 
 
     <!-- Invitation -->
-    <string name="caps_invitations">INVITATIONS</string>
+    <string name="invitations">Invitations</string>
     <string name="no_invites_found">No Invites found</string>
     <string name="it_looks_like_you_dont_have_any_invites_for_you">It looks like you don\'t have any invites for you.</string>
     <string name="you_are_not_allowed_to_add_update_therapies">You are not allowed to add/update therapies.</string>
