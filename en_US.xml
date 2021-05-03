@@ -685,4 +685,8 @@
     <string name="supermd_requires_contacts_permission_in_order_to_invite_the_patients">SuperMD requires contacts permission in order to invite the patients.</string>
     <string name="supermd_requires_contacts_permission_in_order_to_invite_the_secondary_caregiver">SuperMD requires contacts permission in order to invite the secondary caregiver</string>
 
+    <string name="retake">Retake</string>
+    <string name="submit">Submit</string>
+
+
 </resources>
