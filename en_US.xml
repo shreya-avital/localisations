@@ -226,7 +226,7 @@
     <string name="remove_patient">Remove patient</string>
     <string name="are_you_sure">Are you sure?</string>
     <string name="remove_this_patient">Are you sure you want to remove this patient ?</string>
-    <string name="yes">YES</string>
+    <string name="yes">Yes</string>
     <string name="therapies">Therapies</string>
     <string name="no_intakes">No Intakes</string>
 
@@ -259,7 +259,7 @@
     <string name="changes_will_be_lost">Changes will be lost</string>
     <string name="want_to_exit">Are you sure you want to exit?</string>
 
-    <string name="cap_no">NO</string>
+    <string name="cap_no">no</string>
 
     <string name="call">Call</string>
     <string name="edit_patient">Edit Patient</string>
