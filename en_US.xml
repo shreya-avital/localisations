@@ -686,6 +686,7 @@
     <string name="retake">Retake</string>
     <string name="submit">Submit</string>
     <string name="user_id">User ID</string>
+    <string name="mobile">Mobile</string>
 
 
 </resources>
