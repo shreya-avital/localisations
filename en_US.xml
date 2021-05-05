@@ -270,12 +270,12 @@
 
     <string name="time_to_update">Time to Update!</string>
     <string name="added_features">We have added some new features and fixed some bugs to make your experience as smooth as possible.</string>
-    <string name="download_update">Download Updat</string>
-    <string name="under_maintainance">	Under Maintenance	</string>
+    <string name="download_update">Download Update</string>
+    <string name="under_maintainance">Under Maintenance</string>
     <string name="undergoing_maintainace">We are currently undergoing maintenance this won\’t take long</string>
     <string name="try_again">Try Again</string>
     <string name="update_required">Update Required!</string>
-    <string name="not_supporting_version">We are not supporting this version as we have added some news features and fixed some major bugs to make your experience as smooth as possible.</string>
+    <string name="not_supporting_version">We are not supporting this version as we have added some new features and fixed some major bugs to make your experience as smooth as possible.</string>
 
     <string name="select_timezone">Select Time Zone</string>
     <string name="search_timezone">Search Time Zone</string>
