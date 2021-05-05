@@ -487,37 +487,37 @@
     <string name="failed_to_update">Failed to update.</string>
     <string name="successfully_updated_profile">Successfully updated Profile.</string>
     <string name="warning">Warning!</string>
-    <string name="you_dont_have_camera">You don\'t have a camera.</string>
+    <string name="you_dont_have_camera">You don\'t have a Camera.</string>
     <string name="you_dont_have_permission_to_access_gallery">You don\'t have permission to access the Gallery.</string>
     <string name="unacknowledged">Unacknowledged</string>
     <string name="pending">PENDING</string>
     <string name="secondary">SECONDARY</string>
-    <string name="changing_your_phone_number_will_migrate_your_account_information_to_the_new_number">Changing your phone number will migrate your account information to the new number.</string>
+    <string name="changing_your_phone_number_will_migrate_your_account_information_to_the_new_number">Changing your Mobile number will migrate your account information to the new number.</string>
     <string name="connect">CONNECT</string>
     <string name="successfully_marked_therapy_as_taken">Successfully marked therapy as taken.</string>
     <string name="here_you_can_change_the_acknowledging_time_of_your_therapy_before_confirming_it">Here you can change the acknowledging time of your therapy before confirming it.</string>
-    <string name="enter_the_values_manually_or_capture_from_the_selected_bluetooth_devices">Enter the values manually or capture from the selected Bluetooth devices.</string>
+    <string name="enter_the_values_manually_or_capture_from_the_selected_bluetooth_devices">Enter the values manually or capture them from the selected Bluetooth devices.</string>
 
     <!-- Validations -->
     <string name="select_gender">Select Gender</string>
     <string name="select_date_of_birth">Select Date of Birth</string>
     <string name="enter_postal_code">Enter Postal Code</string>
-    <string name="select_wheather_patient_smokes">Select wheather patient smokes</string>
-    <string name="enter_how_many_cigarette">Enter how many cigarette</string>
-    <string name="select_wheather_patient_drinks">Select wheather patient drinks</string>
+    <string name="select_wheather_patient_smokes">Select whether the Patient smokes</string>
+    <string name="enter_how_many_cigarette">Enter how many cigarettes</string>
+    <string name="select_wheather_patient_drinks">Select whether the patient drinks</string>
     <string name="enter_how_many_units_daily">Enter how many units daily</string>
     <string name="select_known_medical_conditions">Select known medical conditions</string>
     <string name="please_fill_required_fields_first">Please fill required fields first.</string>
     <string name="invalid_patient_id">Invalid Patient Id</string>
     <string name="enter_doctor_name">Enter Doctor name</string>
 
-    <string name="note_enabling_the_below_button_will_set_the_caregiver_as_primary">Note: Enabling the below button will set the caregiver as Primary.</string>
+    <string name="note_enabling_the_below_button_will_set_the_caregiver_as_primary">Note: By Enabling the below button will set the caregiver as Primary.</string>
     <string name="set_as_primary_caregiver">Set as Primary Caregiver</string>
 
-    <string name="by_selecting_this_caregiver_will_be_notified_when_patient_confirms_medicine_intake">By selecting this, caregiver will be notified when patient confirms medicine intake.</string>
-    <string name="by_selecting_this_caregiver_will_be_notified_if_patient_misses_medicine_intake">By selecting this, caregiver will be notified if patient misses medicine intake.</string>
-    <string name="by_selecting_this_caregiver_will_be_notified_when_patient_completes_measurement">By Selecting this, caregiver will be notified when patient completes measurement.</string>
-    <string name="by_selecting_this_caregiver_will_notified_if_patient_misses_measurement">By Selecting this, caregiver will notified if patient misses measurement.</string>
+    <string name="by_selecting_this_caregiver_will_be_notified_when_patient_confirms_medicine_intake">By selecting this, a caregiver gets notified when the patient confirms medicine intake.</string>
+    <string name="by_selecting_this_caregiver_will_be_notified_if_patient_misses_medicine_intake">By selecting this, caregiver gets notified if patient misses medicine intake.</string>
+    <string name="by_selecting_this_caregiver_will_be_notified_when_patient_completes_measurement">By Selecting this, caregiver gets notified when patient completes measurement.</string>
+    <string name="by_selecting_this_caregiver_will_notified_if_patient_misses_measurement">By Selecting this, caregiver gets notified if patient misses measurement.</string>
     <string name="send_notification_every_x_mins">Send notification every (x) mins</string>
     <string name="notifications_time_setting">Notifications Time Setting</string>
     <string name="mins">mins</string>
@@ -527,14 +527,14 @@
     <string name="no_notifications_found">No Notifications found</string>
     <string name="you_havent_received_any_notifications_yet">You haven\'t received any notifications yet.</string>
     <string name="failed_to_get_notifications">Failed to get Notifications.</string>
-    <string name="searched_string_not_found">Searched string not found</string>
+    <string name="searched_string_not_found">Searched string not found.</string>
     <string name="successfully_refreshed_the_list">Successfully refreshed the list.</string>
     <string name="failed_to_load_notification_settings">Failed to load Notification Settings</string>
 
     <string name="intake_time_is_yet_to_come">Intake time is yet to come</string>
     <string name="late_intake_reason_is_required">Late Intake Reason is required.</string>
     <string name="searching_for_device">Searching for device</string>
-    <string name="please_wait_while_we_search_device_to_connect">Please wait while we search device to connect.</string>
+    <string name="please_wait_while_we_search_device_to_connect">Please wait while we search for the device to connect.</string>
     <string name="select_late_intake_reason">Select late intake reason</string>
     <string name="enter_reason">Enter reason</string>
     <string name="therapy">Therapy</string>
@@ -544,13 +544,13 @@
     <string name="please_wait_while_we_save_the_weight_data">Please wait while we save the weight data.</string>
     <string name="saved">Saved!</string>
     <string name="excellent">Excellent!</string>
-    <string name="your_weight_measurement_successfully_saved">Your weight measurement successfully saved!</string>
+    <string name="your_weight_measurement_successfully_saved">Your measurement for weight was successfully saved!</string>
     <string name="successfully_marked_your_therapy_as_done">Successfully marked your therapy as done.</string>
-    <string name="it_is_recommended_to_take_at_least_2_readings_for_better_results">It is recommended to take at least 2 readings for better results.</string>
+    <string name="it_is_recommended_to_take_at_least_2_readings_for_better_results">It is recommended to take at least two readings for better results.</string>
     <string name="click_on_submit_button_to_save_your_weight_measurement">Click on Submit button to save your weight measurement.</string>
 
-    <string name="please_wait_while_we_save_the_blood_pressure_data">Please wait while we save the blood pressure data.</string>
-    <string name="your_blood_pressure_measurement_successfully_saved">Your blood pressure measurement successfully saved!</string>
+    <string name="please_wait_while_we_save_the_blood_pressure_data">Please wait while we save the Blood Pressure data.</string>
+    <string name="your_blood_pressure_measurement_successfully_saved">Your measurements for Blood Pressure saved successfully!</string>
     <string name="click_on_submit_button_to_save_your_blood_pressure_measurement">Click on Submit button to save your blood pressure measurement.</string>
 
     <string name="please_wait_while_we_save_the_oximeter_data">Please wait while we save the oximeter data.</string>
@@ -626,8 +626,8 @@
     <string name="inventory_count_less_than_x">Inventory Count (less than $x)</string>
     <string name="notify_days_should_be_less_than_x">Note: Notify Days should be less than $x</string>
     <string name="add_a_therapy_by_clicking_the_add_button">Add a Therapy by clicking the ADD button</string>
-    <string name="ask_your_caregiver_to_add_therapies">Ask your caregiver to add therapies.</string>
-    <string name="notification_setting">Notification setting</string>
+    <string name="ask_your_caregiver_to_add_therapies">Ask your Caregiver to add therapies.</string>
+    <string name="notification_setting">Notification Setting</string>
     <string name="invalid_dosage_strength_value">Invalid dosage strength value</string>
 
     <string name="select_measurement_unit">Select Measurement Unit</string>
@@ -645,11 +645,11 @@
     <string name="loading_invites">Loading Invites</string>
     <string name="please_wait_while_we_load_invites_for_you">Please wait while we load invites for you.</string>
     <string name="failed_to_get_invites">Failed to get Invites.</string>
-    <string name="phone_number_is_same_as_previous">Phone number is same as previous</string>
+    <string name="phone_number_is_same_as_previous">Mobile number is same as previous</string>
     <string name="your_account_has_been_deleted_successfully">Your account has been deleted successfully</string>
-    <string name="please_type_a_message_or_select_an_emoji">Please type a message or select an Emoji</string>
+    <string name="please_type_a_message_or_select_an_emoji">Please type a message or select an Emoji.</string>
     <string name="n_days">$n days</string>
-    <string name="please_check_the_contact_number">Please check the contact number</string>
+    <string name="please_check_the_contact_number">Please check the Mobile number</string>
 
     <string name="remove_caregiver">Remove Caregiver</string>
     <string name="are_you_sure_you_want_to_remove_caregiver">Are you sure you want to remove caregiver?</string>
@@ -657,7 +657,7 @@
     <string name="deletion_failed">Deletion Failed</string>
     <string name="question">Question</string>
 
-    <string name="diagnostic_information_that_helps_us_help_you">Diagnostic information that helps us help you</string>
+    <string name="diagnostic_information_that_helps_us_help_you">The diagnostic information that helps us help you</string>
     <string name="failed_to_get_access">Failed to get access</string>
     <string name="update_failed">Update Failed</string>
     <string name="progress">Progress</string>
@@ -667,21 +667,21 @@
     <string name="verification_failed">Verification failed</string>
 
     <string name="enable_notifications">Enable Notifications</string>
-    <string name="it_looks_like_you_have_turned_off_the_notifications_for_supermd_please_go_to_settings_and_allow_supermd_to_send_you_notifications">It looks like you have turned off the notifications for SuperMD, please go to settings and allow SuperMd to send you notifications</string>
+    <string name="it_looks_like_you_have_turned_off_the_notifications_for_supermd_please_go_to_settings_and_allow_supermd_to_send_you_notifications">It looks like you have turned off the notifications for SuperMD. Please, go to settings and allow SuperMD to send you notifications</string>
     <string name="update_time_zone">Update Time Zone</string>
     <string name="it_looks_like_you_have_just_travelled_to_other_timezone_please_update_the_time_zone_by_clicking_edit_profile_button">It looks like you have moved to a different Country, please update the timezone by clicking the Edit Profile button</string>
 
     <string name="we_have_added_some_new_features_and_fixed_some_bugs_to_make_your_experience_as_smooth_as_possible">We have added some new features and fixed some bugs to make your experience as smooth as possible.</string>
 
     <string name="under_maintenance">Under Maintenance</string>
-    <string name="we_are_currently_undergoing_maintenance_this_wont_take_long">We are currently undergoing maintenance this won\’t take long</string>
+    <string name="we_are_currently_undergoing_maintenance_this_wont_take_long">We are currently undergoing maintenance this won\’t take a long time.</string>
     <string name="is_the_mobile_number_correct">Is the Mobile Number correct?</string>
 
     <!-- iOS Specific -->
     <string name="low_power_mode_is_on">Low Power Mode is On</string>
     <string name="low_power_mode_is_on_results">Please turn off Low Power Mode as it will result in loss of reminders.</string>
-    <string name="supermd_requires_contacts_permission_in_order_to_invite_the_patients">SuperMD requires contacts permission in order to invite the patients.</string>
-    <string name="supermd_requires_contacts_permission_in_order_to_invite_the_secondary_caregiver">SuperMD requires contacts permission in order to invite the secondary caregiver</string>
+    <string name="supermd_requires_contacts_permission_in_order_to_invite_the_patients">SuperMD requires contact permission to invite the patients.</string>
+    <string name="supermd_requires_contacts_permission_in_order_to_invite_the_secondary_caregiver">SuperMD requires contact permission to invite the Secondary Caregiver.</string>
 
     <string name="retake">Retake</string>
     <string name="submit">Submit</string>
