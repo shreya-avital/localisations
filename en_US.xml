@@ -1,35 +1,35 @@
 <resources>
     <string name="app_name">SuperMD</string>
-    <string name="onboarding_title1">Be comforted in the knowledge that someone’s got your back</string>
-    <string name="onboarding_title2">Be comforted that you’ll always know your loved ones are alright</string>
-    <string name="onboarding_title3">Always one step ahead in caring for your loved ones</string>
+    <string name="onboarding_title1">Be comforted in the knowledge that someone’s got your back.</string>
+    <string name="onboarding_title2">Be comforted that you’ll always know your loved ones are alright.</string>
+    <string name="onboarding_title3">Always one step ahead in caring for your loved ones.</string>
     <string name="get_started_title">GET STARTED</string>
     <string name="cap_patient">PATIENT</string>
     <string name="cap_caregiver">CAREGIVER</string>
 
     <!--Sync -->
-    <string name="working_on_therapies">Hold on, we are working on your therapies</string>
+    <string name="working_on_therapies">Hold on! we are working on your therapies.</string>
     <string name="therapy_sync_success">Successfully Synced Therapies</string>
     <string name="unsupported_therapy">Unsupported Therapy</string>
-    <string name="therapy_type_is_not_yet_supported">This therapy type is not yet supported in current version.</string>
+    <string name="therapy_type_is_not_yet_supported">The Therapy type does not support the current version.</string>
     <string name="okay">Okay</string>
-    <string name="refresh_failed">Refresh failed!</string>
+    <string name="refresh_failed">Refresh Failed!</string>
     <string name="clear_failed">Clear Failed!</string>
-    <string name="therapy_listing_added_by_you_and_caregiver">All the therapies which were added by you or your caregiver will be listed here.</string>
+    <string name="therapy_listing_added_by_you_and_caregiver">A list of all the therapies which was added by you and your caregiver will be displayed here.</string>
     <string name="still_needs_to_reach_goal">Still needs $n steps to reach the goal.</string>
     <string name="completed_steps">You have completed your steps goal.</string>
 
     <!--Caregiver Notification Setting-->
     <string name="cargiver_notification_settings">Caregiver Notification Setting</string>
 
-    <string name="load_notification_for_you">Please wait while we load Notifications for you</string>
+    <string name="load_notification_for_you">Please wait while we load Notifications for you.</string>
     <string name="caregiver_notification">Caregiver Notification</string>
     <string name="medication_setting">Medication Setting</string>
-    <string name="notified_when_patient_confirms_medicine_intake">By selecting this,caregiver will be notified when patient confirms medicine intake.</string>
-    <string name="patient_misses_medicine_intake">By selecting this,caregiver will be notified if patient misses medicine intake.</string>
+    <string name="notified_when_patient_confirms_medicine_intake">By selecting this, a Caregiver gets notified when a patient confirms medicine intake.</string>
+    <string name="patient_misses_medicine_intake">By selecting this, a Caregiver gets notified if a Patient misses medicine intake.</string>
     <string name="measurement_setting">Measurement Setting</string>
-    <string name="notified_when_patient_completes_measurement">By selecting this,caregiver will be notified when patient completes measurement.</string>
-    <string name="patient_misses_measurement">By selecting this,caregiver will be notified if patient misses measurement.</string>
+    <string name="notified_when_patient_completes_measurement">By selecting this, a Caregiver gets notified when a Patient completes the measurement.</string>
+    <string name="patient_misses_measurement">By selecting this, a Caregiver gets notified if a Patient misses the measurement.</string>
 
     <string name="set_measurement_parameters">Set Measurement Parameters</string>
     <string name="blood_pressure_setting">Blood pressure setting</string>
@@ -64,39 +64,39 @@
     <string name="enter_temperature_value_between_0_to_1">Enter temperature value between $0 to $1</string>
 
     <string name="oximeter_setting">Oximeter setting</string>
-    <string name="min_oxygen_level">Monimum Oxygen Level</string>
-    <string name="enter_oxygen_percentage_value_0_to_1">Enter Oxygen percentage value $0 to $1</string>
+    <string name="min_oxygen_level">Minimum Oxygen Level</string>
+    <string name="enter_oxygen_percentage_value_0_to_1">Enter an Oxygen percentage value $0 to $1</string>
 
 
     <string name="steps_setting">Steps setting</string>
-    <string name="num_of_steps_to_complete">Number of steps to complete</string>
+    <string name="num_of_steps_to_complete">The number of steps to complete</string>
     <string name="valid_steps_value">Enter valid steps value.</string>
 
 
 
     <string name="notification_time_setting">Notification Time Setting</string>
-    <string name="notification_if_patient_misses_therapies">Caregiver will be notified if patient misses therapies and/or parameters are breached.</string>
+    <string name="notification_if_patient_misses_therapies">A Caregiver gets notified if a Patient misses therapies and/or the parameters are breached.</string>
     <string name="notification_every_x_min">Send notification every (x) mins</string>
-    <string name="notification_stops_after_patient_resumes">Note: This notification will stop after patient resumes meds and/or caregiver acknowledges notification</string>
+    <string name="notification_stops_after_patient_resumes"> Note: This notification will stop after the patient resumes meds and/or a Caregiver acknowledges the notification</string>
 
 
     <!--Login selection-->
     <string name="welcome_to_SuperMD">Welcome to SuperMD</string>
     <string name="get_started_message">Let\'s get started by setting up your profile.</string>
     <string name="caregiver">Caregiver</string>
-    <string name="patient">	Patient</string>
+    <string name="patient">Patient</string>
     <string name="not_sure">Not Sure</string>
     <string name="next">Next</string>
-    <string name="select_caregiver_or_patient">Select Caregiver OR Patient to proceed</string>
+    <string name="select_caregiver_or_patient">Select Caregiver or Patient to proceed</string>
     <string name="select">Select</string>
 
     <!--Login caregiver-->
     <string name="caregiver_signin">Caregiver Sign In</string>
     <string name="country">Country</string>
     <string name="mobile_no">Mobile Number </string>
-    <string name="invalid_phone_number">Enter valid mobile number. </string>
+    <string name="invalid_phone_number">Enter valid Mobile number. </string>
     <string name="login">Login</string>
-    <string name="dont_have_an_account">Don\’t have an acount?</string>
+    <string name="dont_have_an_account">Don\’t have an account?</string>
     <string name="signup">Sign up, it\’s free!</string>
 
     <!--Patient Sign In-->
@@ -104,12 +104,12 @@
     <string name="no_caregiver_linked">No Caregiver linked</string>
     <string name="invite_caregiver_description">Please invite a caregiver by clicking the invite button.</string>
     <string name="search_caregiver_name">Search caregiver</string>
-    <string name="phone_doesnt_have_any_contacts">It liooks like phone doesn\'t have any contacts saved with name $(text)</string>
+    <string name="phone_doesnt_have_any_contacts">It looks like the phone doesn\'t have any contacts saved with name $(text)</string>
 
 
     <!--Signup Caregiver-->
     <string name="sign_in_caregiver">Caregiver Sign In</string>
-    <string name="create_caregiver">Create an account to continue as Caregiver</string>
+    <string name="create_caregiver">Create an account to continue as a Caregiver</string>
     <string name="first_name">First Name </string>
     <string name="last_name">Last Name </string>
     <string name="email">Email </string>
@@ -118,18 +118,18 @@
     <string name="male">Male</string>
     <string name="female">Female</string>
     <string name="language">Language</string>
-    <string name="timezone">Time Zone </string>
-    <string name="time_zone_selected_doesnot_match_system_timezone">The selected time zone doesn\'t match with the phone time zone.</string>
+    <string name="timezone">Time Zone</string>
+    <string name="time_zone_selected_doesnot_match_system_timezone">The selected time zone doesn\'t match the phone time zone.</string>
     <string name="enter_firstname">Enter first name</string>
     <string name="enter_lastname">Enter last name</string>
-    <string name="enter_email">	Enter email</string>
+    <string name="enter_email">	Enter Email</string>
     <string name="select_language">Select Language</string>
-    <string name="i_agree_terms">I agree to the Terms and Conditions and Privacy Policy</string>
+    <string name="i_agree_terms">I agree to the Terms and Conditions and Privacy Policy.</string>
     <string name="terms_and_condition">Terms and Conditions</string>
     <string name="privacy_policy">Privacy Policy</string>
 
     <string name="patient_not_found">Patient not found.</string>
-    <string name="invalid_contact_number">Invalid contact number</string>
+    <string name="invalid_contact_number">Invalid Mobile number</string>
 
 
 
@@ -171,7 +171,7 @@
     <string name="edit_medical_condition">Edit Medical Condition</string>
     <string name="known_medical_conditions">Known medical conditions</string>
     <string name="search_medical_conditions">Search Medical Conditions</string>
-    <string name="click_to_select_conditions">Click to select conditions</string>
+    <string name="click_to_select_conditions">Click to select conditions.</string>
     <string name="pre_existing_conditions">Pre existing conditions</string>
     <string name="age">Age</string>
     <string name="id">ID</string>
@@ -185,30 +185,30 @@
     <string name="sister">Sister</string>
     <string name="brother">Brother</string>
     <string name="husband">Husband</string>
-    <string name="professional">professional</string>
+    <string name="professional">Professional</string>
     <string name="wife">Wife</string>
     <string name="clinic">Clinic</string>
     <string name="doctor">Doctor</string>
-    <string name="does_he_smoke">Does he/she smoke ?</string>
-    <string name="does_he_drinks">Does he/she drink alcohol ?</string>
-    <string name="how_many_cigarette">State how many cigarette</string>
+    <string name="does_he_smoke">Does he/she smoke?</string>
+    <string name="does_he_drinks">Does he/she drink alcohol?</string>
+    <string name="how_many_cigarette">State how many cigarettes</string>
     <string name="how_many_units">State how many units daily</string>
 
 
     <!--Patient listing-->
     <string name="create_patient">Create an account to continue as Patient</string>
 
-    <string name="change_mobile_no">Change mobile number</string>
-    <string name="enter_mobile_no">	Please enter the correct Mobile number</string>
+    <string name="change_mobile_no">Change Mobile number</string>
+    <string name="enter_mobile_no">Please enter the correct Mobile number</string>
     <string name="confirm">Confirm</string>
 
     <!--OTP screen-->
     <string name="verify_account">Verify your account</string>
-    <string name="enter_otp">Please enter OTP sent to your Mobile number or Email address</string>
-    <string name="didnt_receive_otp">Didn\'t receive the OTP</string>
+    <string name="enter_otp">Please enter OTP sent to your Mobile number or Email address.</string>
+    <string name="didnt_receive_otp">Didn\'t receive the OTP?</string>
     <string name="resend_otp">Resend OTP </string>
     <string name="verify">Verify</string>
-    <string name="network_connection_lost">The network connection was lost.</string>
+    <string name="network_connection_lost">The network connection is lost.</string>
 
     <string name="cap_cancel">CANCEL</string>
     <string name="cancel">Cancel</string>
@@ -223,9 +223,9 @@
     <string name="invite_patient">Invite Patient</string>
     <string name="add">ADD</string>
 
-    <string name="remove_patient">Remove patient</string>
+    <string name="remove_patient">Remove Patient</string>
     <string name="are_you_sure">Are you sure?</string>
-    <string name="remove_this_patient">Are you sure you want to remove this patient ?</string>
+    <string name="remove_this_patient">Are you sure you want to remove this patient?</string>
     <string name="yes">Yes</string>
     <string name="therapies">Therapies</string>
     <string name="no_intakes">No Intakes</string>
@@ -244,16 +244,16 @@
     <string name="no_therapy_found">No Therapy found</string>
 	<string name="add_therapy">Add Therapy</string>
     <string name="failed_to_get_therapies">Failed to get Therapies.</string>
-    <string name="bravo">Bravo !</string>
-    <string name="great_job">Great job !</string>
-    <string name="superb">Superb !</string>
-    <string name="well_done">Well done !</string>
-    <string name="brilliant">Brilliant !</string>
+    <string name="bravo">Bravo!</string>
+    <string name="great_job">Great job!</string>
+    <string name="superb">Superb!</string>
+    <string name="well_done">Well done!</string>
+    <string name="brilliant">Brilliant!</string>
     <string name="confirmation_failed">Confirmation failed</string>
     <string name="step_up_device_to_calculate_weight">Please step up on the device to calculate the weight.</string>
     <string name="step_up_device_to_take_another_reading">Please step down and step up on the device to take another reading.</string>
-    <string name="restart_device_to_retake_measurement">Please restart the device to retake measurement.</string>
-    <string name="press_start_button_to_take_another_reading">Press START button to take another reading.</string>
+    <string name="restart_device_to_retake_measurement">Please restart the device to retake the measurement.</string>
+    <string name="press_start_button_to_take_another_reading">Press the START button to take another reading.</string>
     <string name="error">Error</string>
 
     <string name="changes_will_be_lost">Changes will be lost</string>
@@ -265,14 +265,14 @@
     <string name="therapy_setting">Therapy Setting</string>
 
     <string name="report_patient">Report Patient</string>
-    <string name="want_to_report_patient">Are you sure you want to report Patient?</string>
+    <string name="want_to_report_patient">Are you sure you want to report the Patient?</string>
     <string name="reason_to_patient">Reason to report</string>
 
     <string name="time_to_update">Time to Update!</string>
     <string name="added_features">We have added some new features and fixed some bugs to make your experience as smooth as possible.</string>
     <string name="download_update">Download Update</string>
     <string name="under_maintainance">Under Maintenance</string>
-    <string name="undergoing_maintainace">We are currently undergoing maintenance this won\’t take long</string>
+    <string name="undergoing_maintainace">We are currently undergoing maintenance this won\’t take long.</string>
     <string name="try_again">Try Again</string>
     <string name="update_required">Update Required!</string>
     <string name="not_supporting_version">We are not supporting this version as we have added some new features and fixed some major bugs to make your experience as smooth as possible.</string>
@@ -284,17 +284,17 @@
     <string name="setting">Setting</string>
     <string name="invite_patient_caps">INVITE PATIENT</string>
     <string name="no_contacts_found">No Contacts Found</string>
-    <string name="it_looks_like_your_phone_doesnt_have_any_contacts_saved">It looks like your phone doesn\'t have any contacts saved</string>
-    <string name="it_looks_like_your_phone_doesnt_have_any_contacts_saved_with_name_text">It looks like your phone doesn\'t have any contacts saved with name $text</string>
+    <string name="it_looks_like_your_phone_doesnt_have_any_contacts_saved">It looks like your phone doesn\'t have any contacts saved.</string>
+    <string name="it_looks_like_your_phone_doesnt_have_any_contacts_saved_with_name_text">It looks like your phone doesn\'t have any contacts saved with name $text.</string>
 
 
 
     <string name="change_number">Change Number</string>
-    <string name="changing_your_mobile_number_">Changing your Mobile number will migrate your account information to the new number</string>
+    <string name="changing_your_mobile_number_">Changing your Mobile number will migrate your account information to the new number.</string>
 
     <!--Edit Profile-->
     <string name="edit_profile">Edit Profile</string>
-    <string name="complete_profile">Please complete your profile\nby clicking here</string>
+    <string name="complete_profile">Please complete your profile\nby clicking here.</string>
     <string name="here">here</string>
     <string name="remove_photo">Remove Photo</string>
     <string name="camera">Camera</string>
@@ -312,16 +312,16 @@
     <string name="edit_therapies">Edit Therapies</string>
     <string name="inventory_fall">Notify when inventory falls to (x) number of days.</string>
     <string name="loading_therapies">Loading Therapies</string>
-    <string name="therapy_paused">This therapy is paused</string>
+    <string name="therapy_paused">This therapy is paused.</string>
     <string name="loading_therapies_message">Please wait while we load therapies for you.</string>
     <string name="enable_patient">Enable patient to manage therapies</string>
     <string name="mail_open_failed">Please check your mail app.</string>
-    <string name="enable_caregiver_manager_therapy_message">Enable caregiver to manage therapies</string>
-    <string name="enable_patient_manager_therapy_message">Enable patient to manage therapies</string>
+    <string name="enable_caregiver_manager_therapy_message">Enable Caregiver to manage therapies</string>
+    <string name="enable_patient_manager_therapy_message">Enable Patient to manage therapies</string>
 
     <!--Secondary caregiver-->
     <string name="secondary_caregiver">Secondary Caregiver</string>
-    <string name="please_invite_an_alternate_caregiver_by_clicking_the_invite_button">Please invite an alternate caregiver by clicking the invite button</string>
+    <string name="please_invite_an_alternate_caregiver_by_clicking_the_invite_button">Please invite a Secondary Caregiver by clicking the invite button.</string>
 
 
     <!--Set Medication-->
@@ -330,14 +330,14 @@
     <string name="medicine_name">Medicine Name</string>
     <string name="enter_medicine_name">Please enter Medicine name.</string>
     <string name="units_of_measurement">Units of measurement</string>
-    <string name="enter_units_of_measurement">Please select Unit of Measurement</string>
+    <string name="enter_units_of_measurement">Please select the Unit of Measurement.</string>
     <string name="select_unit">Please select unit</string>
     <string name="dosage_strength">Dosage Strength</string>
     <string name="intake_advice">Intake advice</string>
     <string name="none">None</string>
     <string name="before_meal">Before meal</string>
-    <string name="with_meal">with_meal</string>
-    <string name="after_meal">after_meal</string>
+    <string name="with_meal">with meal</string>
+    <string name="after_meal">after meal</string>
     <string name="others">Others</string>
     <string name="other">Other</string>
     <string name="custom_entry">Custom entry</string>
@@ -362,14 +362,14 @@
     <string name="fri">Friday</string>
     <string name="sat">Saturday</string>
     <string name="sun">Sunday</string>
-    <string name="add_intake_time_to_manage_inventory">Please add intake time in order to manage inventory.</string>
+    <string name="add_intake_time_to_manage_inventory">Please add intake time to manage inventory.</string>
 
     <!--Loading Patients-->
     <string name="loading_patients_title">Loading Patients</string>
     <string name="loading_patients_message">Please wait while we load patients for you.</string>
     <string name="Failed_to_get_Patients">Failed to get Patients.</string>
     <string name="No_Patients_found">No Patients found</string>
-    <string name="Add_Patient_clicking_Invite_button">Add a Patient by clicking the Invite button</string>
+    <string name="Add_Patient_clicking_Invite_button">Add a Patient by clicking the Invite button.</string>
 
     <!--Set Measurement-->
     <string name="set_measurement">Set Measurement</string>
@@ -394,11 +394,11 @@
     <string name="feeling_better">Feeling better</string>
     <string name="finished_expired">Medication finished/expired</string>
     <string name="not_motivated">Not motivated</string>
-    <string name="unhappy_with_previous_measurement">Unhappy with previous measurement</string>
+    <string name="unhappy_with_previous_measurement">Unhappy with the previous measurement</string>
     <string name="confirmation_successful">Confirmation successful</string>
-    <string name="successfully_therapy_taken">Successfully marked therapy as taken</string>
+    <string name="successfully_therapy_taken">Successfully marked therapy as taken.</string>
     <string name="loading_therapy">Loading Therapy</string>
-    <string name="please_wait_we_load_therapy">Please wait while we load therapy for you</string>
+    <string name="please_wait_we_load_therapy">Please wait while we load therapy for you.</string>
     <string name="timed_out">The request timed out.</string>
     <string name="retry">Retry</string>
 
@@ -429,8 +429,8 @@
     <string name="notification">NOTIFICATION</string>
     <string name="failed_to_get_notification">Failed to get Notifications</string>
 
-    <string name="connect_to_network_to_notify_caregiver">Please connect to the internet so that your caregiver is notified about the therapies.</string>
-    <string name="no_notification_found">No Notifiactions found</string>
+    <string name="connect_to_network_to_notify_caregiver">Please connect to the internet so that your caregiver gets notified about the therapies.</string>
+    <string name="no_notification_found">No Notifications found</string>
     <string name="havent_received_notification">You haven\'t received any notifications yet.</string>
     <string name="mark_all_as_read">Read All</string>
     <string name="late_reason">Late reason</string>
@@ -438,10 +438,10 @@
     <!--Patient Summary-->
     <string name="summary">SUMMARY</string>
     <string name="loading_intakes">Loading Intakes</string>
-    <string name="please_wait_while_we_load_intake_data_for_you">Please wait while we load intake data for you</string>
+    <string name="please_wait_while_we_load_intake_data_for_you">Please wait while we load intake data for you.</string>
     <string name="reports">REPORTS</string>
     <string name="generate_report">Generate Report</string>
-    <string name="generate_report_description">Generate reports for selected number of months</string>
+    <string name="generate_report_description">Generate reports for a selected number of months.</string>
     <string name="generate">Generate</string>
 
     <string name="charts">CHARTS</string>
@@ -456,14 +456,14 @@
 	<string name="resign_as_secondary_caregiver">Resign as Secondary Caregiver</string>
     <string name="are_you_sure_you_want_to_resign_as_caregiver">Are you sure you want to resign?</string>
     <string name="patient_report_failed">Patient Report failed!</string>
-    <string name="patient_removing_failed">Patient Removing failed!</string>
+    <string name="patient_removing_failed">Failed to remove Patient!</string>
     <string name="successfully_resigned_as_secondary_caregiver">Successfully resigned as secondary caregiver.</string>
     <string name="caregiver_resignation_failed">Caregiver resignation failed!</string>
     <string name="you_can_invite_new_patients_by_clicking_on_the_invite_button">You can invite new patient\'s by clicking on the invite button.</string>
-    <string name="you_can_add_new_patient_by_clicking_on_the_add_button">You can add new patient by clicking on the add button.</string>
+    <string name="you_can_add_new_patient_by_clicking_on_the_add_button">You can add a new patient by clicking on the add button.</string>
     <string name="late_intake_reason">Late Intake Reason</string>
-    <string name="successfully_reported_patient">Successfully reported patient.</string>
-    <string name="successfully_removed_patient">Successfully removed patient.</string>
+    <string name="successfully_reported_patient">Successfully reported Patient.</string>
+    <string name="successfully_removed_patient">Successfully removed Patient.</string>
 
 
     <!-- Invitation -->
