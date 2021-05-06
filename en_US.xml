@@ -300,7 +300,7 @@
     <string name="camera">Camera</string>
     <string name="gallery">Gallery</string>
     <string name="choose_an_option">Choose an Option</string>
-    <string name="update">UPDATE</string>
+    <string name="update">Update</string>
     <string name="success">Success</string>
     <string name="profile_updated">Successfully updated Profile.</string>
 
@@ -511,13 +511,13 @@
     <string name="invalid_patient_id">Invalid Patient Id</string>
     <string name="enter_doctor_name">Enter Doctor name</string>
 
-    <string name="note_enabling_the_below_button_will_set_the_caregiver_as_primary">Note: By Enabling the below button will set the caregiver as Primary.</string>
+    <string name="note_enabling_the_below_button_will_set_the_caregiver_as_primary">Note: By Enabling the below button will set the Caregiver as Primary.</string>
     <string name="set_as_primary_caregiver">Set as Primary Caregiver</string>
 
-    <string name="by_selecting_this_caregiver_will_be_notified_when_patient_confirms_medicine_intake">By selecting this, a caregiver gets notified when the patient confirms medicine intake.</string>
-    <string name="by_selecting_this_caregiver_will_be_notified_if_patient_misses_medicine_intake">By selecting this, caregiver gets notified if patient misses medicine intake.</string>
-    <string name="by_selecting_this_caregiver_will_be_notified_when_patient_completes_measurement">By Selecting this, caregiver gets notified when patient completes measurement.</string>
-    <string name="by_selecting_this_caregiver_will_notified_if_patient_misses_measurement">By Selecting this, caregiver gets notified if patient misses measurement.</string>
+    <string name="by_selecting_this_caregiver_will_be_notified_when_patient_confirms_medicine_intake">By selecting this, a Caregiver gets notified when the patient confirms medicine intake.</string>
+    <string name="by_selecting_this_caregiver_will_be_notified_if_patient_misses_medicine_intake">By selecting this, Caregiver gets notified if patient misses medicine intake.</string>
+    <string name="by_selecting_this_caregiver_will_be_notified_when_patient_completes_measurement">By Selecting this, Caregiver gets notified when patient completes measurement.</string>
+    <string name="by_selecting_this_caregiver_will_notified_if_patient_misses_measurement">By Selecting this, cCregiver gets notified if patient misses measurement.</string>
     <string name="send_notification_every_x_mins">Send notification every (x) mins</string>
     <string name="notifications_time_setting">Notifications Time Setting</string>
     <string name="mins">mins</string>
