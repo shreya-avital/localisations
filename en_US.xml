@@ -329,8 +329,8 @@
     <string name="select_medication">Select Medication</string>
     <string name="medicine_name">Medicine Name</string>
     <string name="enter_medicine_name">Please enter Medicine name.</string>
-    <string name="units_of_measurement">Units of measurement</string>
-    <string name="enter_units_of_measurement">Please select the Unit of Measurement.</string>
+    <string name="unit_of_measurement">Unit of measurement</string>
+    <string name="enter_unit_of_measurement">Please select the Unit of Measurement.</string>
     <string name="select_unit">Please select unit</string>
     <string name="dosage_strength">Dosage Strength</string>
     <string name="intake_advice">Intake advice</string>
