@@ -318,6 +318,7 @@
     <string name="mail_open_failed">Please check your mail app.</string>
     <string name="enable_caregiver_manager_therapy_message">Enable Caregiver to manage therapies</string>
     <string name="enable_patient_manager_therapy_message">Enable Patient to manage therapies</string>
+    <string name="keep_record_when_running_low_on_medicine">We will keep a record and notify you when you are running low on medicine.</string>
 
     <!--Secondary caregiver-->
     <string name="secondary_caregiver">Secondary Caregiver</string>
@@ -662,7 +663,7 @@
     <string name="update_failed">Update Failed</string>
     <string name="progress">Progress</string>
     <string name="invite_caregiver">Invite Caregiver</string>
-    <string name="add_caregiver">ADD CAREGIVER</string>
+    <string name="add_caregiver">Add Caregiver</string>
     <string name="add_secondary_caregiver">ADD SECONDARY CAREGIVER</string>
     <string name="verification_failed">Verification failed</string>
 
