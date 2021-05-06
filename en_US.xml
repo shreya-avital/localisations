@@ -209,7 +209,7 @@
     <string name="resend_otp">Resend OTP </string>
     <string name="verify">Verify</string>
     <string name="network_connection_lost">The network connection is lost.</string>
-
+     <string name="enter_otp">Please enter OTP</string>
     <string name="cap_cancel">CANCEL</string>
     <string name="cancel">Cancel</string>
 
@@ -653,7 +653,7 @@
 
     <string name="remove_caregiver">Remove Caregiver</string>
     <string name="are_you_sure_you_want_to_remove_caregiver">Are you sure you want to remove caregiver?</string>
-    <string name="verify_otp">VERIFY OTP</string>
+    <string name="verify_otp">Verify</string>
     <string name="deletion_failed">Deletion Failed</string>
     <string name="question">Question</string>
 
