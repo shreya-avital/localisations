@@ -449,9 +449,11 @@
 
     <!--Patient Summary-->
     <string name="summary">SUMMARY</string>
+    <string name="cap_summary">SUMMARY</string>
     <string name="loading_intakes">Loading Intakes</string>
     <string name="please_wait_while_we_load_intake_data_for_you">Please wait while we load intake data for you.</string>
     <string name="reports">REPORTS</string>
+    <string name="cap_reports">REPORTS</string>
     <string name="generate_report">Generate Report</string>
     <string name="generate_report_description">Generate reports for a selected number of months.</string>
     <string name="generate">Generate</string>
