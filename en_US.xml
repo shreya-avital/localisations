@@ -309,7 +309,7 @@
     <string name="camera">Camera</string>
     <string name="gallery">Gallery</string>
     <string name="choose_an_option">Choose an Option</string>
-    <string name="cap_update">Update</string>
+    <string name="cap_update">UPDATE</string>
     <string name="update">Update</string>
     <string name="success">Success</string>
     <string name="profile_updated">Successfully updated Profile.</string>
