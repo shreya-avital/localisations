@@ -7,12 +7,20 @@
     <string name="cap_patient">PATIENT</string>
     <string name="cap_caregiver">CAREGIVER</string>
 
+    <string name="cap_save">SAVE</string>
+
+    <string name="cap_invite">INVITE</string>
+    <string name="cap_add">ADD</string>
+
+    
+
     <!--Sync -->
     <string name="working_on_therapies">Hold on! we are working on your therapies.</string>
     <string name="therapy_sync_success">Successfully Synced Therapies</string>
     <string name="unsupported_therapy">Unsupported Therapy</string>
     <string name="therapy_type_is_not_yet_supported">The Therapy type does not support the current version.</string>
     <string name="okay">Okay</string>
+    <string name="cap_okay">OKAY</string>
     <string name="refresh_failed">Refresh Failed!</string>
     <string name="clear_failed">Clear Failed!</string>
     <string name="therapy_listing_added_by_you_and_caregiver">A list of all the therapies which was added by you and your caregiver will be displayed here.</string>
@@ -43,7 +51,7 @@
     <string name="blood_sugar_falls_above_before_meal">When blood sugar goes above (before meal)</string>
 
     <string name="weight_setting">Weight setting</string>
-    <string name="caps_weight">WEIGHT</string>
+    <string name="cap_weight">WEIGHT</string>
     <string name="weight_in_kg">Weight(kg)</string>
     <string name="weight_falls_by_x">After weight falls by (x)%</string>
     <string name="enter_weight_value_between_0_to_1">Enter weight value between $0 to $1</string>
@@ -57,7 +65,7 @@
     <string name="weight_increases_by_x">After weight increases by (x)%</string>
     <string name="weight_between_one_to_sixhundred">Enter weight between 1 to 600</string>
 
-    <string name="caps_temperature">TEMPERATURE</string>
+    <string name="cap_temperature">TEMPERATURE</string>
     <string name="temperature_setting">Temperature setting</string>
     <string name="temperature_falls_below_c">When temperature falls below (c)</string>
     <string name="temperature_goes_above_c">When temperature goes above (c)</string>
@@ -87,6 +95,7 @@
     <string name="patient">Patient</string>
     <string name="not_sure">Not Sure</string>
     <string name="next">Next</string>
+    <string name="cap_next">NEXT</string>
     <string name="select_caregiver_or_patient">Select Caregiver or Patient to proceed</string>
     <string name="select">Select</string>
 
@@ -282,7 +291,7 @@
     <string name="no_patient_found">No Patients found</string>
     <string name="please_wait">Please wait</string>
     <string name="setting">Setting</string>
-    <string name="invite_patient_caps">INVITE PATIENT</string>
+    <string name="cap_invite_patient">INVITE PATIENT</string>
     <string name="no_contacts_found">No Contacts Found</string>
     <string name="it_looks_like_your_phone_doesnt_have_any_contacts_saved">It looks like your phone doesn\'t have any contacts saved.</string>
     <string name="it_looks_like_your_phone_doesnt_have_any_contacts_saved_with_name_text">It looks like your phone doesn\'t have any contacts saved with name $text.</string>
@@ -294,12 +303,14 @@
 
     <!--Edit Profile-->
     <string name="edit_profile">Edit Profile</string>
+    <string name="cap_edit_profile">EDIT PROFILE</string>
     <string name="complete_profile">Please complete your profile\nby clicking here.</string>
     <string name="here">here</string>
     <string name="remove_photo">Remove Photo</string>
     <string name="camera">Camera</string>
     <string name="gallery">Gallery</string>
     <string name="choose_an_option">Choose an Option</string>
+    <string name="cap_update">Update</string>
     <string name="update">Update</string>
     <string name="success">Success</string>
     <string name="profile_updated">Successfully updated Profile.</string>
@@ -401,6 +412,7 @@
     <string name="please_wait_we_load_therapy">Please wait while we load therapy for you.</string>
     <string name="timed_out">The request timed out.</string>
     <string name="retry">Retry</string>
+    <string name="cap_retry">RETRY</string>
 
     <string name="blood_sugar">Blood Sugar</string>
     <string name="temperature">Temperature</string>
@@ -433,6 +445,7 @@
     <string name="no_notification_found">No Notifications found</string>
     <string name="havent_received_notification">You haven\'t received any notifications yet.</string>
     <string name="mark_all_as_read">Read All</string>
+    <string name="cap_mark_all_as_read">READ ALL</string>
     <string name="late_reason">Late reason</string>
 
     <!--Patient Summary-->
@@ -479,7 +492,10 @@
     <string name="failed_to_load">Failed to load ${text}</string>
     <string name="invalid_url">Invalid URL.</string>
     <string name="notifications">Notifications</string>
+    
     <string name="settings">Settings</string>
+    <string name="cap_settings">SETTINGS</string>
+    
     <string name="the_internet_connection_appears_to_be_offline">The internet connection appears to be offline.</string>
     <string name="congratulations">Congratulations</string>
     <string name="you_have_completed_all_the_therapies">You have completed all the therapies.</string>
