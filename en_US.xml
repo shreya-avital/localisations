@@ -606,11 +606,11 @@
     <string name="no_end_date">No end date</string>
     <string name="starting_date">Starting $date</string>
     <string name="until_tomorrow">Until Tomorrow</string>
-    <string name="until_$date">Until $date</string>
+    <string name="until_xxdate">Until $date</string>
     <string name="for_1_day">For 1 day</string>
     <string name="for_x_days">For $x days</string>
     <string name="every_1_day">Every 1 day</string>
-    <string name="every_$x_days">Every $x days</string>
+    <string name="every_xx_days">Every $x days</string>
     <string name="x_days_active">$x active</string>
     <string name="x_days_paused">$x paused</string>
     <string name="x_hour_s">$x hour (s)</string>
