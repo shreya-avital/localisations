@@ -524,6 +524,8 @@
     <string name="select_wheather_patient_drinks">Select whether the patient drinks</string>
     <string name="enter_how_many_units_daily">Enter how many units daily</string>
     <string name="select_known_medical_conditions">Select known medical conditions</string>
+    <string name="other_conditions">Other Conditions</string>
+    <string name="user_defined_medical_conditions">User Defined Medical Conditions</string>
     <string name="please_fill_required_fields_first">Please fill required fields first.</string>
     <string name="invalid_patient_id">Invalid Patient Id</string>
     <string name="enter_doctor_name">Enter Doctor name</string>
