@@ -365,13 +365,23 @@
     <string name="every_x_days">Every X days</string>
     <string name="every">Every</string>
     <string name="specific_days_of_week">Specific days of week</string>
-    <string name="mon">Monday</string>
-    <string name="tue">Tuesday</string>
-    <string name="wed">Wednesday</string>
+    
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
     <string name="thursday">Thursday</string>
-    <string name="fri">Friday</string>
-    <string name="sat">Saturday</string>
-    <string name="sun">Sunday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <string name="mon">Mon</string>   
+    <string name="tues">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+
     <string name="add_intake_time_to_manage_inventory">Please add intake time to manage inventory.</string>
 
     <!--Loading Patients-->
