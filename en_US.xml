@@ -720,4 +720,6 @@
     <string name="steps">Steps</string>
     <string name="select_therapy_time_after_xdate">Select therapy time after $date</string>
 
+    <string name="unscheduled_therapy">Unscheduled Therapy</string>
+    
 </resources>
