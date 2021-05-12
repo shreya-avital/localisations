@@ -721,5 +721,9 @@
     <string name="select_therapy_time_after_xdate">Select therapy time after $date</string>
 
     <string name="unscheduled_therapy">Unscheduled Therapy</string>
-    
+	
+	<!--Note-->
+     <string name="reminders_deactivated_patient_confirms_intake">Note: Reminders will be deactivated when patient confirms intake.</string>
+    <string name="notify_when_running_low_on_medicine">We will keep a record and notify when you are running low on medicine.</string>
+<string name="notify_days_less_than_nine">Note: Notify Days should be less than 9</string>
 </resources>
