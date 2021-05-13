@@ -341,6 +341,7 @@
     <string name="enter_medicine_name">Please enter Medicine name.</string>
     <string name="unit_of_measurement">Unit of measurement</string>
     <string name="enter_unit_of_measurement">Please select the Unit of Measurement.</string>
+     <string name="unit">Unit</string>
     <string name="select_unit">Please select unit</string>
     <string name="dosage_strength">Dosage Strength</string>
     <string name="intake_advice">Intake advice</string>
@@ -520,7 +521,7 @@
     <string name="pending">PENDING</string>
     <string name="secondary">SECONDARY</string>
     <string name="changing_your_phone_number_will_migrate_your_account_information_to_the_new_number">Changing your phone number will migrate your account information to the new number.</string>
-    <string name="connect">CONNECT</string>
+    <string name="connect">Connect</string>
     <string name="successfully_marked_therapy_as_taken">Successfully marked therapy as taken.</string>
     <string name="here_you_can_change_the_acknowledging_time_of_your_therapy_before_confirming_it">Here you can change the acknowledging time of your therapy before confirming it.</string>
     <string name="enter_the_values_manually_or_capture_from_the_selected_bluetooth_devices">Enter the values manually or capture from the selected Bluetooth device.</string>
