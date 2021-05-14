@@ -12,7 +12,7 @@
     <string name="cap_invite">INVITE</string>
     <string name="cap_add">ADD</string>
 
-    
+
 
     <!--Sync -->
     <string name="working_on_therapies">Hold on! we are working on your therapies.</string>
@@ -250,7 +250,7 @@
     <string name="no_measurements">No Measurements</string>
     <string name="no_therapies_scheduled">No therapies have been scheduled yet. Please set therapies.</string>
     <string name="no_therapy_found">No Therapy found</string>
-	<string name="add_therapy">Add Therapy</string>
+    <string name="add_therapy">Add Therapy</string>
     <string name="failed_to_get_therapies">Failed to get Therapies.</string>
     <string name="bravo">Bravo!</string>
     <string name="great_job">Great job!</string>
@@ -341,7 +341,7 @@
     <string name="enter_medicine_name">Please enter Medicine name.</string>
     <string name="unit_of_measurement">Unit of measurement</string>
     <string name="enter_unit_of_measurement">Please select the Unit of Measurement.</string>
-     <string name="unit">Unit</string>
+    <string name="unit">Unit</string>
     <string name="select_unit">Please select unit</string>
     <string name="dosage_strength">Dosage Strength</string>
     <string name="intake_advice">Intake advice</string>
@@ -366,7 +366,7 @@
     <string name="every_x_days">Every X days</string>
     <string name="every">Every</string>
     <string name="specific_days_of_week">Specific days of week</string>
-    
+
     <string name="monday">Monday</string>
     <string name="tuesday">Tuesday</string>
     <string name="wednesday">Wednesday</string>
@@ -375,7 +375,7 @@
     <string name="saturday">Saturday</string>
     <string name="sunday">Sunday</string>
 
-    <string name="mon">Mon</string>   
+    <string name="mon">Mon</string>
     <string name="tues">Tue</string>
     <string name="wed">Wed</string>
     <string name="thu">Thu</string>
@@ -478,7 +478,7 @@
 
 
     <string name="please_check_the_number">Please check the number!</string>
-	<string name="resign_as_secondary_caregiver">Resign as Secondary Caregiver</string>
+    <string name="resign_as_secondary_caregiver">Resign as Secondary Caregiver</string>
     <string name="are_you_sure_you_want_to_resign_as_caregiver">Are you sure you want to resign?</string>
     <string name="patient_report_failed">Patient Report failed!</string>
     <string name="patient_removing_failed">Failed to remove Patient!</string>
@@ -504,10 +504,10 @@
     <string name="failed_to_load">Failed to load ${text}</string>
     <string name="invalid_url">Invalid URL.</string>
     <string name="notifications">Notifications</string>
-    
+
     <string name="settings">Settings</string>
     <string name="cap_settings">SETTINGS</string>
-    
+
     <string name="the_internet_connection_appears_to_be_offline">The internet connection appears to be offline.</string>
     <string name="congratulations">Congratulations</string>
     <string name="you_have_completed_all_the_therapies">You have completed all the therapies.</string>
@@ -540,7 +540,7 @@
     <string name="please_fill_required_fields_first">Please fill required fields first.</string>
     <string name="invalid_patient_id">Invalid Patient Id</string>
     <string name="enter_doctor_name">Enter Doctor name</string>
- 
+
     <string name="note_enabling_the_below_button_will_set_the_caregiver_as_primary">Note: Enabling the below button will set the caregiver as a primary caregiver.</string>
     <string name="set_as_primary_caregiver">Set as Primary Caregiver</string>
 
@@ -611,7 +611,7 @@
     <string name="edit_medication">Edit Medication</string>
     <string name="edit_measurement">Edit Measurement</string>
     <string name="add_medication">Add Medication</string>
-	<string name="update_medication">Update Medication</string>
+    <string name="update_medication">Update Medication</string>
 
 
     <string name="add_intake_time">Add intake time</string>
@@ -707,12 +707,6 @@
     <string name="we_are_currently_undergoing_maintenance_this_wont_take_long">We are currently undergoing maintenance this won\’t take long</string>
     <string name="is_the_mobile_number_correct">Please confirm your Mobile number</string>
 
-    <!-- iOS Specific -->
-    <string name="low_power_mode_is_on">Low Power Mode is On</string>
-    <string name="low_power_mode_is_on_results">Please turn off Low Power Mode as you might not receive the reminders.</string>
-    <string name="supermd_requires_contacts_permission_in_order_to_invite_the_patients">SuperMD needs access to your contacts to invite the Patient</string>
-    <string name="supermd_requires_contacts_permission_in_order_to_invite_the_secondary_caregiver">SuperMD needs access to your contacts to invite the Primary or Secondary Caregiver</string>
-
     <string name="retake">Retake</string>
     <string name="submit">Submit</string>
     <string name="user_id">User ID</string>
@@ -722,9 +716,16 @@
     <string name="select_therapy_time_after_xdate">Select therapy time after $date</string>
 
     <string name="unscheduled_therapy">Unscheduled Therapy</string>
-	
-	<!--Note-->
-     <string name="reminders_deactivated_patient_confirms_intake">Note: Reminders will be deactivated when patient confirms intake.</string>
+    <string name="well_done">Well done!</string>
+
+    <!--Note-->
+    <string name="reminders_deactivated_patient_confirms_intake">Note: Reminders will be deactivated when patient confirms intake.</string>
     <string name="notify_when_running_low_on_medicine">We will keep a record and notify when you are running low on medicine.</string>
+
+    <!-- iOS Specific -->
+    <string name="low_power_mode_is_on">Low Power Mode is On</string>
+    <string name="low_power_mode_is_on_results">Please turn off Low Power Mode as you might not receive the reminders.</string>
+    <string name="supermd_requires_contacts_permission_in_order_to_invite_the_patients">SuperMD needs access to your contacts to invite the Patient</string>
+    <string name="supermd_requires_contacts_permission_in_order_to_invite_the_secondary_caregiver">SuperMD needs access to your contacts to invite the Primary or Secondary Caregiver</string>
 
 </resources>
