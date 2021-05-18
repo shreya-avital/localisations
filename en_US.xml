@@ -731,6 +731,11 @@
     <string name="add_meds">Add Meds</string>
     <string name="add_readings">Add Radings</string>
     <string name="add_incident">Add Incident</string>
+    <string name="invalid_unscheduled_therapy_model">Invalid Unscheduled therapy model.</string>
+    <string name="unscheduled_medicine_reason">Reason for unscheduled medicine</string>
+    <string name="unscheduled_measurement_reason">Reason for unscheduled measurement</string>
+    <string name="incident_details">Incident details</string>
+
     <string name="last_intake_time_should_be_greater_then_first_intake_time">Last intake time should be greater then first intake time</string>
     <string name="first_intake_time_should_be_less_then_last_intake_time">First intake time should be less then last intake time</string>
     <string name="are_you_sure_you_want_t_remove_profile_photo">Are you sure you want to remove profile photo?</string>
