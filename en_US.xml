@@ -53,7 +53,7 @@
     <string name="weight_setting">Weight setting</string>
     <string name="cap_weight">WEIGHT</string>
     <string name="weight_in_kg">Weight(kg)</string>
-    <string name="weight_falls_by_x">After weight falls by (x)%</string>
+    <string name="weight_falls_by_x">After weight falls by (x)</string>
     <string name="enter_weight_value_between_0_to_1">Enter weight value between $0 to $1</string>
 
 
@@ -62,13 +62,13 @@
     <string name="fifteen">15</string>
     <string name="twenty">20</string>
     <string name="twentyfive">25</string>
-    <string name="weight_increases_by_x">After weight increases by (x)%</string>
+    <string name="weight_increases_by_x">After weight increases by (x)</string>
     <string name="weight_between_one_to_sixhundred">Enter weight between 1 to 600</string>
 
     <string name="cap_temperature">TEMPERATURE</string>
     <string name="temperature_setting">Temperature setting</string>
-    <string name="temperature_falls_below_c">When temperature falls below (c)</string>
-    <string name="temperature_goes_above_c">When temperature goes above (c)</string>
+    <string name="temperature_falls_below_c">When temperature falls below (°c)</string>
+    <string name="temperature_goes_above_c">When temperature goes above (°c)</string>
     <string name="enter_temperature_value_between_0_to_1">Enter temperature value between $0 to $1</string>
 
     <string name="oximeter_setting">Oximeter Setting</string>
