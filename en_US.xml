@@ -729,7 +729,7 @@
     <string name="supermd_requires_contacts_permission_in_order_to_invite_the_secondary_caregiver">SuperMD needs access to your contacts to invite the Primary or Secondary Caregiver</string>
 
     <string name="add_meds">Add Meds</string>
-    <string name="add_readings">Add Radings</string>
+    <string name="add_readings">Add Readings</string>
     <string name="add_incident">Add Incident</string>
     <string name="invalid_unscheduled_therapy_model">Invalid Unscheduled therapy model.</string>
     <string name="unscheduled_medicine_reason">Reason for unscheduled medicine</string>
