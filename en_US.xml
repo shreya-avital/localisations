@@ -335,6 +335,7 @@
 
 
     <!--Set Medication-->
+    <string name="you_can_only_view_the_therapies">You can only view the therapies.</string>
     <string name="set_medication">Set Medication</string>
     <string name="select_medication">Select Medication</string>
     <string name="medicine_name">Medicine Name</string>
