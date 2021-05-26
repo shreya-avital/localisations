@@ -81,7 +81,7 @@
     <string name="valid_steps_value">Enter valid steps value.</string>
 
 
-
+    <string name="reminder_for_therapy_x_at_y">Reminder for therapy $x at $y</string>
     <string name="notification_time_setting">Notification Time Setting</string>
     <string name="notification_if_patient_misses_therapies">A Caregiver gets notified if a Patient misses therapies and/or the parameters are breached.</string>
     <string name="notification_every_x_min">Send notification every (x) mins</string>
