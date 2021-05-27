@@ -119,6 +119,7 @@
     <!--Signup Caregiver-->
     <string name="sign_in_caregiver">Caregiver Sign In</string>
     <string name="create_caregiver">Create an account to continue as a Caregiver</string>
+    <string name="wait_for_x"> wait for $x</string>
     <string name="first_name">First Name </string>
     <string name="last_name">Last Name </string>
     <string name="email">Email </string>
