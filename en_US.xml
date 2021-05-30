@@ -741,6 +741,7 @@
     <string name="incident_details">Incident details</string>
     <string name="enter_incident_details">Enter incident details</string>
     <string name="reading_value_required">Reading value is required.</string>
+    <string name="reason">Reason</string>
 
     <string name="last_intake_time_should_be_greater_then_first_intake_time">Last intake time should be greater then first intake time</string>
     <string name="first_intake_time_should_be_less_then_last_intake_time">First intake time should be less then last intake time</string>
