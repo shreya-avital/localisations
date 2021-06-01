@@ -75,7 +75,7 @@
     <string name="min_oxygen_level">Minimum Oxygen Level</string>
     <string name="enter_oxygen_percentage_value_0_to_1">Enter an Oxygen percentage value $0 to $1</string>
 
-
+    <string name="km">KM</string>
     <string name="steps_setting">Steps Setting</string>
     <string name="num_of_steps_to_complete">The number of steps to complete</string>
     <string name="valid_steps_value">Enter valid steps value.</string>
