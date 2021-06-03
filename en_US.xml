@@ -752,6 +752,9 @@
     <string name="are_you_sure_you_want_t_remove_profile_photo">Are you sure you want to remove profile photo?</string>
 
     <!-- Appointments -->
+    <string name="appointments">Appointments</string>
+    <string name="loading_appointments">Loading Appointments</string>
+    <string name="please_wait_we_load_appointments">Please wait we load appointments</string>
+    <string name="no_appointments_found">No appointments found</string>
     
-
 </resources>
