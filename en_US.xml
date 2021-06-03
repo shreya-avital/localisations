@@ -49,6 +49,8 @@
     <string name="blood_sugar_goes_above_after_meal">When blood sugar goes above (after meal)</string>
     <string name="blood_sugar_falls_below_before_meal">When blood sugar falls below (before meal)</string>
     <string name="blood_sugar_goes_above_before_meal">When blood sugar goes above (before meal)</string>
+    <string name="measured_unit">Measured Unit</string>
+   
 
     <string name="weight_setting">Weight setting</string>
     <string name="cap_weight">WEIGHT</string>
@@ -74,6 +76,9 @@
     <string name="oximeter_setting">Oximeter Setting</string>
     <string name="min_oxygen_level">Minimum Oxygen Level</string>
     <string name="enter_oxygen_percentage_value_0_to_1">Enter an Oxygen percentage value $0 to $1</string>
+     <string name="measured_value">Measured Value</string>
+    <string name="oxygen_percent_30_to_100">Oxygen % (30 to 100)</string>
+    <string name"pulse_percent_40_to_200">Pulse % (40 to 200)</string>
 
     <string name="km">KM</string>
     <string name="steps_setting">Steps Setting</string>
