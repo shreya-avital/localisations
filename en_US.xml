@@ -751,4 +751,7 @@
     <string name="first_intake_time_should_be_less_then_last_intake_time">First intake time should be less then last intake time</string>
     <string name="are_you_sure_you_want_t_remove_profile_photo">Are you sure you want to remove profile photo?</string>
 
+    <!-- Appointments -->
+    
+
 </resources>
