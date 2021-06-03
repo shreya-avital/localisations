@@ -756,5 +756,7 @@
     <string name="loading_appointments">Loading Appointments</string>
     <string name="please_wait_we_load_appointments">Please wait we load appointments</string>
     <string name="no_appointments_found">No appointments found</string>
-    
+    <string name="upcoming">UPCOMING</string>
+    <string name="past">PAST</string>
+
 </resources>
