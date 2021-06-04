@@ -771,5 +771,7 @@
     <string name="enter_oxygen">Enter oxygen</string>
     <string name="enter_pulse">Enter pulse</string>
     <string name="enter_weight">Enter weight</string>
+    <string name="time">Time</string>
+    <string name="place">Place</string>
 
 </resources>
