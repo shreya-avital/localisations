@@ -767,4 +767,9 @@
     <string name="past">PAST</string>
     <string name="add_appointment">Add Appointment</string>
 
+    <string name="acknowledge_time_should_not_be_less_then_10_minutes_of_intake_time">Acknowledge time should not be less then 10 minutes of intake time</string>
+    <string name="enter_oxygen">Enter oxygen</string>
+    <string name="enter_pulse">Enter pulse</string>
+    <string name="enter_weight">Enter weight</string>
+
 </resources>
