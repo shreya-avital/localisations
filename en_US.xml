@@ -578,6 +578,8 @@
     <string name="please_wait_while_we_search_device_to_connect">Please wait while we search device to connect.</string>
     <string name="select_late_intake_reason">Select late intake reason</string>
     <string name="enter_reason">Enter reason</string>
+     <string name="reason_to_update_intake">Reason to update intake</string>
+    <string name="reason_to_update_measurement">Reason to update measurement</string>
     <string name="therapy">Therapy</string>
 
     <string name="device_manager_should_not_be_nil">We are unable to establish a connection with the device please enter the values manually.</string>
