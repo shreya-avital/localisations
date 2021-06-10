@@ -73,6 +73,8 @@
     <string name="temperature_falls_below_c">When temperature falls below (°c)</string>
     <string name="temperature_goes_above_c">When temperature goes above (°c)</string>
     <string name="enter_temperature_value_between_0_to_1">Enter temperature value between $0 to $1</string>
+    <string name="enter_value_between_80_to_108">Enter value between 80 to 108</string>
+    <string name="enter_value_between_30_to_42">Enter value between 30 to 42</string>
 
     <string name="oximeter_setting">Oximeter Setting</string>
     <string name="min_oxygen_level">Minimum Oxygen Level</string>
