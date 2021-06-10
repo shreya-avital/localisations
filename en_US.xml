@@ -437,6 +437,8 @@
     <string name="blood_sugar">Blood Sugar</string>
     <string name="temperature">Temperature</string>
     <string name="oximeter">Oximeter</string>
+    <string name="oxygen_percentage_should_be_between_30_to_100"> Oxygen Percentage should be between 30 to 100</string>
+    <string name="pulse_should_be_between_40_to_200">Pulse should be between 40 to 200</string>
 
 
     <!--Delete Account-->
