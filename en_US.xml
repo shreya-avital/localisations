@@ -51,7 +51,7 @@
     <string name="blood_sugar_goes_above_before_meal">When blood sugar goes above (before meal)</string>
     <string name="measured_unit">Measured Unit</string>
     <string name="enter_measured_value">Enter measured value</string>
-   
+
 
     <string name="weight_setting">Weight setting</string>
     <string name="cap_weight">WEIGHT</string>
@@ -79,7 +79,7 @@
     <string name="oximeter_setting">Oximeter Setting</string>
     <string name="min_oxygen_level">Minimum Oxygen Level</string>
     <string name="enter_oxygen_percentage_value_0_to_1">Enter an Oxygen percentage value $0 to $1</string>
-     <string name="measured_value">Measured Value</string>
+    <string name="measured_value">Measured Value</string>
     <string name="oxygen_percent_30_to_100">Oxygen % (30 to 100)</string>
     <string name="pulse_percent_40_to_200">Pulse % (40 to 200)</string>
 
@@ -246,7 +246,8 @@
     <string name="yes">Yes</string>
     <string name="therapies">Therapies</string>
     <string name="no_intakes">No Intakes</string>
-
+    <string name="first_measurement">First Measurement</string>
+    <string name="last_measurement">Last Measurement</string>
 
     <string name="activities">ACTIVITIES</string>
     <string name="week">WEEK</string>
@@ -438,7 +439,8 @@
     <string name="blood_sugar">Blood Sugar</string>
     <string name="temperature">Temperature</string>
     <string name="oximeter">Oximeter</string>
-
+    <string name="oxygen_percentage_should_be_between_30_to_100"> Oxygen Percentage should be between 30 to 100</string>
+    <string name="pulse_should_be_between_40_to_200">Pulse should be between 40 to 200</string>
 
     <!--Delete Account-->
     <string name="delete_account">Delete Account</string>
@@ -578,7 +580,7 @@
     <string name="please_wait_while_we_search_device_to_connect">Please wait while we search device to connect.</string>
     <string name="select_late_intake_reason">Select late intake reason</string>
     <string name="enter_reason">Enter reason</string>
-     <string name="reason_to_update_intake">Reason to update intake</string>
+    <string name="reason_to_update_intake">Reason to update intake</string>
     <string name="reason_to_update_measurement">Reason to update measurement</string>
     <string name="therapy">Therapy</string>
 
