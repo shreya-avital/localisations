@@ -781,5 +781,14 @@
     <string name="place">Place</string>
 
     <string name="appointment_will_be_deleted">Appointment will be deleted</string>
+    <string name="appointment_title">Appointment title</string>
+    <string name="appointment_type">Appointment type</string>
+    <string name="select_doctor">Select doctor</string>
+    <string name="add_to_calendar">Add to calendar</string>
+    <string name="time">Time</string>
+    <string name="remind_me_before">Remind me before</string>
+    <string name="location">Location</string>
+    <string name="type_notes">Type notes</string>
+    <string name="add_reminder">Add Reminder time</string>
 
 </resources>
