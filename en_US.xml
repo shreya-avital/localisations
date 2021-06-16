@@ -792,4 +792,8 @@
     <string name="add_reminder">Add Reminder time</string>
     <string name="appointment">Appointment</string>
 
+    <string name="enter_appointment_title">Enter Appointment title</string>
+    <string name="add_reminder_time">Add reminder time</string>
+    <string name="reminder_time_has_to_be_before_appointment_time">Reminder time has to be before appointment time</string>
+
 </resources>
