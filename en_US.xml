@@ -768,7 +768,7 @@
     <string name="loading_appointments">Loading Appointments</string>
     <string name="please_wait_we_load_appointments">Please wait we load appointments</string>
     <string name="no_appointments_found">No appointments found</string>
-    <string name="no_appointments_found_message">You dont have any appointment, Add an appointemnt by clicking below button</string>
+    <string name="no_appointments_found_message">You don't have any appointment, Add an appointemnt by clicking below button</string>
     <string name="upcoming">UPCOMING</string>
     <string name="past">PAST</string>
     <string name="add_appointment">Add Appointment</string>
@@ -795,5 +795,13 @@
     <string name="enter_appointment_title">Enter Appointment title</string>
     <string name="add_reminder_time">Add reminder time</string>
     <string name="reminder_time_has_to_be_before_appointment_time">Reminder time has to be before appointment time</string>
+
+    <string name="address">Address</string>
+    <string name="loading_doctors">Loading doctors</string>
+    <string name="please_wait_we_load_doctors">Please wait we load doctors</string>
+    <string name="failed_to_get_appointments">Failed to get appointments</string>
+    <string name="failed_to_get_doctors">Failed to get doctors</string>
+    <string name="no_doctors_found">No doctors found</string>
+    <string name="no_doctors_found_message">You don't have any doctor, Add an doctor by clicking below button</string>
 
 </resources>
