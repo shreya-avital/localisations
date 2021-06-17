@@ -766,7 +766,7 @@
     <!-- Appointments -->
     <string name="appointments">Appointments</string>
     <string name="loading_appointments">Loading Appointments</string>
-    <string name="please_wait_we_load_appointments">Please wait we load appointments</string>
+    <string name="please_wait_we_load_appointments">Please wait while we load appointments</string>
     <string name="no_appointments_found">No appointments found</string>
     <string name="no_appointments_found_message">You don't have any appointment, Add an appointemnt by clicking below button</string>
     <string name="upcoming">UPCOMING</string>
@@ -804,5 +804,12 @@
     <string name="no_doctors_found">No doctors found</string>
     <string name="no_doctors_found_message">You don't have any doctor, Add a doctor by clicking below button</string>
     <string name="add_doctor">Add Doctor</string>
+    <string name="doctor_name">Doctor name</string>
+    <string name="enter_address">Enter address</string>
+
+    <string name="loading_appointment">Loading appointment</string>
+    <string name="please_wait_we_load_appointment_details">Please wait we while load appointment details</string>
+    <string name="failed_to_get_appointment_details">Failed to get appointment details</string>
+
 
 </resources>
