@@ -802,6 +802,7 @@
     <string name="failed_to_get_appointments">Failed to get appointments</string>
     <string name="failed_to_get_doctors">Failed to get doctors</string>
     <string name="no_doctors_found">No doctors found</string>
-    <string name="no_doctors_found_message">You don't have any doctor, Add an doctor by clicking below button</string>
+    <string name="no_doctors_found_message">You don't have any doctor, Add a doctor by clicking below button</string>
+    <string name="add_doctor">Add Doctor</string>
 
 </resources>
