@@ -810,6 +810,9 @@
     <string name="loading_appointment">Loading appointment</string>
     <string name="please_wait_we_load_appointment_details">Please wait we while load appointment details</string>
     <string name="failed_to_get_appointment_details">Failed to get appointment details</string>
-
+    <string name="loading_doctor">Loading doctor</string>
+    <string name="please_wait_while_we_load_doctor_details">Please wait while we load doctor details</string>
+    <string name="failed_to_get_doctor_details">Failed to get doctor details</string>
+    <string name="doctors">Doctors</string>
 
 </resources>
