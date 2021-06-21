@@ -816,7 +816,7 @@
     <string name="doctors">Doctors</string>
     <string name="open">Open</string>
     <string name="edit">Edit</string>
-    <string name="no_past_appointments_found">No past appointments found</string>
+    <string name="no_past_appointments_found">You don't have any past appointments</string>
 
 
 </resources>
