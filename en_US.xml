@@ -814,5 +814,7 @@
     <string name="please_wait_while_we_load_doctor_details">Please wait while we load doctor details</string>
     <string name="failed_to_get_doctor_details">Failed to get doctor details</string>
     <string name="doctors">Doctors</string>
+    <string name="open">Open</string>
+    <string name="edit">Edit</string>
 
 </resources>
