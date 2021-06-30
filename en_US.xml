@@ -435,6 +435,7 @@
     <string name="timed_out">The request timed out.</string>
     <string name="retry">Retry</string>
     <string name="cap_retry">RETRY</string>
+    <string name="no_steps">NO STEPS</string>
 
     <string name="blood_sugar">Blood Sugar</string>
     <string name="temperature">Temperature</string>
