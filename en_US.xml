@@ -818,5 +818,9 @@
     <string name="edit">Edit</string>
     <string name="no_past_appointments_found">You don't have any past appointments</string>
 
+    <string name="no_therapies_found">No Therapies Found</string>
+    <string name="add_therapies">Add Therapies</string>
+
+
 
 </resources>
