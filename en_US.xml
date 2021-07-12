@@ -554,6 +554,7 @@
     <string name="please_fill_required_fields_first">Please fill required fields first.</string>
     <string name="invalid_patient_id">Invalid Patient Id</string>
     <string name="enter_doctor_name">Enter Doctor name</string>
+    <string name="enter_clinic_name">Enter Clinic name</string>
 
     <string name="note_enabling_the_below_button_will_set_the_caregiver_as_primary">Note: Enabling the below button will set the caregiver as a primary caregiver.</string>
     <string name="set_as_primary_caregiver">Set as Primary Caregiver</string>
