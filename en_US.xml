@@ -827,7 +827,7 @@
 
     <string name="no_therapies_found">No Therapies Found</string>
     <string name="add_therapies">Add Therapies</string>
-
+    <string name="pulse_should_be_between_x_to_y">Pulse should be between $x to $y</string>
 
 
 </resources>
