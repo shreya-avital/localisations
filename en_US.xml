@@ -748,6 +748,9 @@
     <string name="add_meds">Add Meds</string>
     <string name="add_readings">Add Readings</string>
     <string name="add_incident">Add Incident</string>
+    <string name="incident_time_shouldnot_be_more_then_10min">Incident time shouldn't be more then 10 minutes of current time</string>
+    <string name="reading_time_shouldnot_be_more_then_10min">Reading time shouldn't be more then 10 minutes of current time</string>
+    <string name="intake_time_shouldnot_be_more_then_10min">Intake time shouldn't be more then 10 minutes of current time</string>
     <string name="invalid_unscheduled_therapy_model">Invalid Unscheduled therapy model.</string>
     <string name="unscheduled_medicine_reason">Reason for unscheduled medicine</string>
     <string name="unscheduled_measurement_reason">Reason for unscheduled measurement</string>
