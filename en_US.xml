@@ -378,7 +378,8 @@
     <string name="every_x_days">Every X days</string>
     <string name="every">Every</string>
     <string name="specific_days_of_week">Specific days of week</string>
-    <string name="atleast_one_intake_time_is_required">Atleast one intake time is required</string>
+    <string name="atleast_one_intake_time_is_required">At least one intake time is required</string>
+    <string name="atleast_one_measurement_time_is_required">At least one measurement time is required</string>
 
     <string name="monday">Monday</string>
     <string name="tuesday">Tuesday</string>
